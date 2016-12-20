@@ -1,5 +1,5 @@
 # CampusPeer
-An online social networking application that allows college students to buy and sell used books. <br><br>
+An online social networking application that helps college students buy and sell used books. <br><br>
 <img src="https://github.com/cramaechi/campus-peer.com/blob/master/img/welcome_page.png" width="650" height="407">
 
 ## What state is the project in right now?
