@@ -1,0 +1,390 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$WrapperWidth: 1000px;
+$FooterHeight: 27px;
+
+* 
+{
+	margin: 0;
+	padding: 0;
+}
+
+html, body 
+{
+	/* IE support for background gradients */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6');
+	/* Chrome & Safari support for background gradients */
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f6f6f6));
+	/* Firefox support for background gradients */
+	background: -moz-linear-gradient(top,  #ffffff,  #f6f6f6);
+	/* Opera support for background gradients */
+	background-image: -o-linear-gradient(top,#ffffff, #f6f6f6);
+	background-attachment:fixed;
+	/*background: url(WelcomePage/otis_redding.png) repeat-x;*/
+	
+	height: 100%; 
+	font-family: "Arial";
+	color: #5d5d5d;
+
+	a{color: #2eaf37}
+	a:link {text-decoration: none}
+	a:active {text-decoration: none}
+	a:hover {text-decoration: underline;}
+	a:visited{text-decoration: none;}
+}
+
+#container 
+{
+	min-height: 100%;
+	margin: 0 auto;
+	border-left: 20px; /* <------ Why do we need this declaration? */
+}
+
+#container:before 
+{ /* Opera and IE8 "redraw" bug fix */
+	content:"";
+	float:left;
+	height:100%;
+	margin-top:-999em;
+}
+
+* html #container 
+{ /* IE6 workaround */
+	height:100%; 
+}
+
+.wrapper
+{
+	margin: 0px auto;
+	width: $WrapperWidth;
+}
+
+#header
+{
+	background: url(../StudentLayout/Student_Layout_Header_Slice12.png) repeat-x;
+
+	position: fixed;
+	top: 0; 
+	left: 0;
+	z-index: 9999;
+	width: 100%; /* Why doesn't container have a width property? */
+
+	height: 37px;
+
+  #logo-text
+	{
+		height:42px;
+		padding: 8px 0px 0px 10px;
+		float: left;
+		width:500px;
+	}
+
+	#top-links
+	{
+		float: right;
+		//border: 1px solid rgba(173, 173, 173, .15);
+		//border-radius:6px;
+		//background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+        //background: rgba(173, 173, 173, .15);
+		//height:26px;
+
+		#header-links
+		{
+			list-style: none;
+
+			li
+			{
+				float: left;
+			}			
+		}
+	}
+}
+
+#campus-icon
+{
+	height:30px;
+	width:33px;
+	border-radius:6px 0px 0px 6px;
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .15);
+    margin-top:3px;
+    padding:0px 5px;
+}
+
+#campus-icon:hover
+{
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .25);
+}
+
+#campus-icon:active
+{
+	box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-moz-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-webkit-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+}
+
+#mail-icon
+{
+	height:22px;
+	width:36px;
+	border-radius:0px 0px 0px 0px;
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .15);
+	padding: 4px 5px;
+	margin-top:3px;
+	margin-left:1px;
+}
+
+#mail-icon:hover
+{
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .25);
+}
+
+#mail-icon:active
+{
+	box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-moz-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-webkit-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+}
+
+#profile-icon
+{
+	height:28px;
+	width:44px;
+	padding:1px 5px;
+	border-radius:0px 0px 0px 0px;
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .15);
+    margin-top:3px;
+    margin-left:1px;
+
+}
+
+#profile-icon:hover
+{
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .25);
+}
+
+#profile-icon:active
+{
+	box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-moz-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-webkit-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+}
+
+#logout-icon
+{
+	height:20px;
+	width:39px;
+	padding-top: 5px; 
+	padding-left:3px;
+	padding-right:7px;
+	padding-bottom:5px;
+	border-radius:0px 6px 6px 0px;
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .15);
+    margin-top:3px;
+    margin-left:1px;
+}
+
+#logout-icon:hover
+{
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .25);
+}
+
+#logout-icon:active
+{
+	box-shadow:-1px 1px 1px 0px #b9b9b9 inset;
+	-moz-box-shadow:-1px 1px 1px 0px #b9b9b9 inset;
+	-webkit-box-shadow:-1px 1px 1px 0px #b9b9b9 inset;
+}
+
+#accountsettings-icon
+{
+	height:26px;
+	width:32px;
+	padding: 2px 5px;
+	border-radius:0px 0px 0px 0px;
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .15);
+    margin-top:3px;
+    margin-left:1px;
+}
+
+#accountsettings-icon:hover
+{
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .25);
+}
+
+#accountsettings-icon:active
+{
+	box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-moz-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+	-webkit-box-shadow:1px 1px 1px 0px #b9b9b9 inset;
+}
+
+#book-icon
+{
+	float:left;
+	padding-left:5px;
+	padding-top:4px;
+}
+
+#studygroup-icon
+{
+	float:left;
+	padding-left:5px;
+	padding-top:0px;
+}
+
+#tutor-icon
+{
+	float:left;
+	padding-left:5px;
+	padding-top:3px;
+}
+
+.nav-label
+{
+	padding-left: 20px;
+	background-color: #eeeeee;
+}
+
+#content
+{
+	padding-top: 37px;
+	padding-bottom: $FooterHeight + 10;	// Size of footer
+
+
+	#content-left
+	{
+		padding-top: 35px;
+		width: 130px;
+		float: left;
+
+		#nav-bar
+		{
+			list-style: none;
+			//background-color: #f4f4f4;
+
+			.navitem
+			{
+				//border-bottom: 1px solid #dcdcdc;
+				//border-left: 2px solid #dcdcdc;
+
+				h5
+				{
+					font-weight: normal;
+					padding: 10px 10px;
+					font-size:10px;
+				}
+
+				.subnav
+				{
+					list-style: none;
+					.subnav-item
+					{
+						//border-bottom: 1px dotted #dcdcdc;
+						//border-top: 1px solid #dcdcdc;
+					}
+
+					li
+					{
+						a
+						{
+							display: block;
+							padding: 5px 15px;
+							text-decoration: none;
+							font-size: 12px;
+							color: #717171;	
+						}
+					}
+
+					li:hover
+					{
+						//background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    				//background: rgba(173, 173, 173, .25);
+					}
+				}
+			}
+
+			.navitem:hover
+			{
+				//background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    		//background: rgba(173, 173, 173, .05);
+			}
+
+			#first-navitem
+			{
+				//border-top: 2px solid #dcdcdc;
+			}
+		}
+	}
+
+	#content-right
+	{
+		/* IE support for background gradients */
+	    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fdfdfd', endColorstr='#ffffff');
+	    /* Chrome & Safari support for background gradients */
+	    background: -webkit-gradient(linear, left top, left bottom, from(#fdfdfd), to(#fefefe));
+	    /* Firefox & Safari support for background gradients */
+	    background: -moz-linear-gradient(top,  #fdfdfd,  #fefefe);
+	    /* Opera support for background gradients */
+	    background-image: -o-linear-gradient(top,#ffffff, #f6f6f6);
+
+		width: 826px;
+		float: right;
+		padding:15px 20px 20px 20px;
+		border-right: 2px solid;
+		border-left: 2px solid;
+		border-bottom: 2px solid;
+		border-color: #f2f2f2;
+	}
+}
+
+.text-box 
+{
+	width: 215px;
+	background: transparent url('../WelcomePage/TextBox.jpg') no-repeat;
+	color : #747862;
+	height:20px;
+	border:0;
+	padding:4px 8px;
+	margin-bottom:0px;
+}
+
+
+#footer 
+{
+	//background-attachment:fixed;
+	clear: both;
+	height: $FooterHeight;
+	margin:-$FooterHeight auto 0; /* negative margin-top equals height of #foot */
+	
+	font-size: 12px;
+   	color: #5d5d5d;
+
+	#footer-content
+   	{
+   		#left
+	   	{
+	   		float: left;
+	   		padding-left: 150px;
+	   		padding-top: 5px;
+	   	}
+
+	   	#right
+	   	{
+	   		float: right;
+	   		padding-right: 20px;
+	   		padding-top: 5px;
+	   	}
+   	}
+}

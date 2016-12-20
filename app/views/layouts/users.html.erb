@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <%= stylesheet_link_tag    "layouts/users", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= yield :head %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+
+<div id="container">
+  <div id="header">
+    <div class="wrapper">
+      <div id="logo-text">
+       <img src="/assets/WelcomePage/logo4.png">
+        <img src="/assets/WelcomePage/CampusPeerText5.png">
+      </div>
+    </div>  
+  </div>
+
+  <div id="content">  	
+    <div class="wrapper">
+      <% if (flash.alert || (flash.notice && !flash.notice.empty?)) %>
+        <div id="error-messages">
+      	  <% flash.each do |name, msg| %>
+		    <% if msg.class == Array %>
+		      <% msg.each do |message| %>
+		        <%= content_tag :div, message, :id => "flash_#{name}" %>
+		      <% end %>
+		    <% else %>
+		      <%= content_tag :div, msg, :id => "flash_#{name}" %>
+		    <% end %>
+		  <% end %>
+        </div>
+      <% end %>
+
+      <div id="content-wrapper">
+
+    	<%= yield %>
+
+      </div>
+
+    </div>  
+  </div>
+
+</div>
+
+<div id="footer">
+  <div id="footer-content">
+    <div class="wrapper">
+      <div id="left">
+        CampusPeer © 2012
+      </div>
+
+      <div id="right">
+        Help · About · Policy · Jobs · Advertising · Contact · Mobile · FAQs
+      </div>    
+    </div>
+  </div>  
+</div>
+
+</body>
+</html>

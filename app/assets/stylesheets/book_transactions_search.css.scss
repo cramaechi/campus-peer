@@ -1,0 +1,49 @@
+@font-face
+{
+	font-family: gp;
+	src: local('GelPen'), url('fonts/GelPen.ttf');
+}
+
+.bk-cover
+{
+	width: 86px;
+	height: 100px;
+
+	box-shadow: -1px 4px 3px #555555;
+    -moz-box-shadow: -1px 4px 3px #555555;
+    -webkit-box-shadow: -1px 4px 7px #555555;
+}
+
+.pagination
+{
+	padding-left: 15px;
+	font-size: 12px;
+}
+
+#page-title
+{ 
+    padding-left:20px;
+	color: #7e7e7e;
+	font-size: 20px;
+	font-family: gp;
+}
+
+#color
+{
+	color:#4e97e9;
+}
+
+#isbn-cell
+{
+	width:120px;
+}
+
+#bk-cover-cell
+{
+	border-left: 1px solid #d3d3d3;
+}
+
+#publisher-cell
+{
+	border-right: 1px solid #d3d3d3;
+}

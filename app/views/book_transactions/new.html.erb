@@ -1,0 +1,48 @@
+<% content_for :head do %>
+  <title>CampusPeer | Buy <%= @sell_book_items.first.book.title %></title>
+  <%= stylesheet_link_tag "book_transactions_new", :media => "all" %>
+  <%= stylesheet_link_tag "book", :media => "all" %>
+  <%= stylesheet_link_tag "table", :media => "all" %>
+  <%= javascript_include_tag "book_transactions_new" %>
+<% end %>
+
+<div id="bk-div">
+  <div id="border">
+    <div id="box-title">Book Summary</div>
+  </div>
+
+  <div id="bk-cover-div">
+    <%= image_tag(Book.cover(@sell_book_items.first.book.isbn13), :alt => "#{@sell_book_items.first.book.isbn13} Cover", :id => "bk-cover") %>
+  </div>
+
+  <div id="bk-info-div">
+    <table cellspacing ="9" class = "tble">
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">TITLE:</span></td>
+        <td class="truncate"><%= @sell_book_items.first.book.title %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">AUTHORS:</span></td>
+        <td class="truncate"><%= @sell_book_items.first.book.author %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">ISBN 10:</span></td>
+        <td ><%= @sell_book_items.first.book.isbn10 %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">ISBN 13:</span></td>
+        <td><%= @sell_book_items.first.book.isbn13 %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">PUBLISHER:</span></td>
+        <td><%= @sell_book_items.first.book.publisher %></td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<br />
+
+<div id="buyitems">
+  <%= render 'buyitems' %>
+</div>

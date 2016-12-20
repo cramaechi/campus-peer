@@ -1,0 +1,26 @@
+<% content_for :head do %>
+  <title>CampusPeer | More Results</title>
+  <%= stylesheet_link_tag "book_transactions_search", :media => "all" %>
+  <%= stylesheet_link_tag "table", :media => "all" %>
+  <%= stylesheet_link_tag "search", :media => "all" %>
+  <%= stylesheet_link_tag    "placeholder", :media => "all" %>
+  <%= javascript_include_tag "book_transactions_search" %>
+<% end %>
+
+<div id="page-title">More Results</div>
+
+<br />
+
+<div id="searchform2">
+  <%= form_tag search_book_transactions_path, :method => 'get', :id => "search-form2" do %>
+  <label class ="input2">
+    <span> Enter ISBN or Title </span>
+    <%= text_field_tag :search, params[:search], :id => "searchbox2", :class => "autofocus"%>
+  </label>
+    <%= submit_tag "", :name => nil, :type => :image, :src => "/assets/Shared/TransparentMoreResultsSearchBtn.png", :id => "search-btn2" %>
+  <% end %>
+</div>
+
+<div id="search-items">
+  <%= render 'search' %>
+</div>

@@ -1,0 +1,63 @@
+<% content_for :head do %>
+  <title>CampusPeer | Sign Up</title>
+  <%= stylesheet_link_tag "devise/RegistrationsNew", :media => "all" %>
+  <%= stylesheet_link_tag    "jQueryThemes/ui-lightness/jquery-ui-1.8.21.custom", :media => "all" %>
+  <%= javascript_include_tag "welcome" %>
+<% end %>
+
+<div id="content-title"><h3>Sign up</h3></div>
+<div id="content-form">
+  <%= form_for(resource, :as => resource_name, :url => registration_path(resource_name), :html => {:novalidate => 'novalidate'}) do |f| %>
+
+    <% flash.now[:notice] = resource.errors.full_messages %>
+
+    <table cellspacing="10" cellpadding="0">
+      <tr>
+        <td><%= f.label :firstname %></td>
+        <td><%= f.text_field :firstname, :class => "text-box"  %></td>
+      </tr>
+
+      <tr>
+        <td><%= f.label :lastname %></td>
+        <td><%= f.text_field :lastname, :class => "text-box"  %></td>
+      </tr>
+
+      <tr>
+        <td><%= f.label :campus_name, "Campus" %></td>
+        <td><%= f.text_field :campus_name, :class => "text-box", :id => "campus_textfield" %></td>
+      </tr>
+
+      <tr>
+        <td><%= f.label :email %></td>
+        <td><%= f.email_field :email, :class => "text-box"  %></td>
+      </tr>
+
+      <tr>
+        <td><%= f.label :email_confirmation, "Re-Enter Email" %></td>
+        <td><%= f.email_field :email_confirmation, :class => "text-box"  %></td>
+      </tr>
+
+      <tr>
+        <td><%= f.label :password %></td>
+        <td><%= f.password_field :password, :class => "text-box"  %></td>
+      </tr>
+
+      <tr>
+        <td></td>
+        <td>
+          <div style="text-align: right;">
+            <%= f.submit "", :type => :image, :src => "/assets/WelcomePage/SignUpBtn.png" %>
+            <%= image_tag("/assets/Shared/Or.png") %>
+            <%= link_to image_tag("/assets/WelcomePage/loginBtn.png", :border => 0, :id => "loginBtn"), new_session_path(resource_name) %>
+          </div>
+        </td>
+      </tr>
+    </table>
+    
+  <% end %>
+</div>
+
+<div id="user-links">
+  <%= link_to "PASSWORD LOOKUP?", new_password_path(resource_name) %>
+</div>
+

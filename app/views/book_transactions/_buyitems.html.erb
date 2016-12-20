@@ -1,0 +1,25 @@
+<table class="table1">
+  <tr>
+    <th>User</th>
+    <th id="price-cell"><%= sortable("price", nil, {:buy_book => params[:buy_book]}) %></th>
+    <th id="condition-cell"><%= sortable("condition", nil, {:buy_book => params[:buy_book]}) %></th>
+    <th>Condition Description</th>
+    <th></th>
+  </tr>
+
+<% @sell_book_items.each_with_index do |sell_book_item, index| %>
+  <tr <%= index % 2 == 0 ? "class = r0" : "class = r1" %>>
+    <td id="user-image-cell">
+      <div><%= image_tag("/assets/shared/UserNoImage.png", :class => "profile-pic") %></div>
+      <div><%= sell_book_item.user.firstname %></div>
+    </td>
+    <td><%= number_to_currency(sell_book_item.price) %></td>
+    <td ><%= sell_book_item.condition %></td>
+    <td id="condition-description-cell"><%= sell_book_item.condition_description.blank? ? "No Description" : sell_book_item.condition_description %></td>
+    <td class = "buy-cell" ><%= link_to image_tag("/assets/BookTransactions/TransparentBuyBookBtn3.png"), book_transactions_path({ :buy_book => sell_book_item.id }), :method => :post, :class => "bbb" %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+<%= paginate @sell_book_items %>

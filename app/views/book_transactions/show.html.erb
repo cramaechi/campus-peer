@@ -1,0 +1,63 @@
+<% content_for :head do %>
+  <title>CampusPeer | Receipt</title>
+  <%= stylesheet_link_tag "book_transactions_show", :media => "all" %>
+  <%= stylesheet_link_tag "book", :media => "all" %>
+<% end %>
+
+<div id="bk-div">
+  <div id="border">
+    <div id="box-title">Receipt</div>
+  </div>
+
+  <div id="bk-cover-div">
+    <%= image_tag(Book.cover(@book_transaction.book.isbn13), :alt => "#{@book_transaction.book.isbn13} Cover", :id => "bk-cover") %>
+  </div>
+
+  <div id="bk-info-div">
+    <table cellspacing = "9" class ="tble">
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">Title:</span></td>
+        <td class="truncate"><%= @book_transaction.book.title %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">Author:</span></td>
+        <td><%= @book_transaction.book.author %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">ISBN 10:</span></td>
+        <td><%= @book_transaction.book.isbn10 %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">ISBN 13:</span></td>
+        <td><%= @book_transaction.book.isbn13 %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">Publisher:</span></td>
+        <td><%= @book_transaction.book.publisher %></td>
+      </tr>
+
+      <tr><td class= "dash"></td><td class="dash"></td></tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">Seller:</span></td>
+        <td><%= "#{@seller.firstname} #{@seller.lastname}" %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">Price:</span></td>
+        <td><%= number_to_currency(@book_transaction.price) %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">Condition:</span></td>
+        <td><%= @book_transaction.condition %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">Condition Description:</span></td>
+        <td class="truncate" id="bk-value-width-show" ><%= @book_transaction.condition_description.blank? ? "No Description" : @book_transaction.condition_description %></td>
+      </tr>
+      <tr>
+        <td class="bk-heading-width"><span class="bk-heading">PeerTag:</span></td>
+        <td><%= @book_transaction.peertag %></td>
+      </tr>
+
+    </table>
+  </div>
+</div>

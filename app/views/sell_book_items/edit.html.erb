@@ -1,0 +1,8 @@
+<% content_for :head do %>
+  <title>CampusPeer | Sell Books</title>
+  <%= stylesheet_link_tag "sell_book_items_form", :media => "all" %>
+  <%= stylesheet_link_tag "book", :media => "all" %>
+  <%= javascript_include_tag "sell_book_items_new" %>
+<% end %>
+
+<%= render 'form' %>

@@ -1,0 +1,40 @@
+<% content_for :head do %>
+  <title>CampusPeer | Buy</title>
+  <%= stylesheet_link_tag "book_transactions", :media => "all" %>
+  <%= stylesheet_link_tag "search", :media => "all" %>
+  <%= stylesheet_link_tag "placeholder", :media => "all" %>
+  <%= javascript_include_tag "books" %>
+  <%= javascript_include_tag "effects" %>
+<% end %>
+
+<div id="page-title">
+  <%= image_tag("/assets/BookTransactions/bbtabcBar.png")%>
+</div>
+<div id="stw">Spread The Word!</div>
+
+<div>
+<div id="searchform">
+  <%= form_tag book_transactions_path, :method => 'get', :id => "books-search" do %>
+  <div>
+    <label class="input3">
+    <span>Enter ISBN or Title</span>
+    <%= text_field_tag :search, params[:search], :id => "searchbox", :class => "autofocus"%>
+    </label>
+  </div>
+   <div><%= submit_tag "", :name => nil, :type => :image, :src => "/assets/Shared/TransparentSearchBtn.png", :id => "search-btn" %></div>
+<% end %>
+</div>
+
+<div id="tip">Tip: To ensure optimal results, <br/> &nbsp
+&nbsp &nbsp search by ISBN.</div>
+<br /><br/>
+
+<div id="books-area">
+ <%= render 'shared/books', { :books => @books, :path => "buy" } %>
+</div>
+<br />
+
+<div id="scattered-books"></div>
+
+<div id="loading"></div>
+

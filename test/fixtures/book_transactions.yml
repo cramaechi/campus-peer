@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  sell_book_item_id: 1
+  book_id: 1
+  seller_user_id: 1
+  buyer_user_id: 1
+  campus_id: 1
+  price: 9.99
+  condition: MyString
+  condition_description: MyString
+  peertag: MyString
+
+two:
+  sell_book_item_id: 1
+  book_id: 1
+  seller_user_id: 1
+  buyer_user_id: 1
+  campus_id: 1
+  price: 9.99
+  condition: MyString
+  condition_description: MyString
+  peertag: MyString

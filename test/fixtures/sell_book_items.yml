@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  book_id: 1
+  campus_id: 1
+  price: 9.99
+  condition: "New"
+  condition_description: "This book is new."
+
+two:
+  user_id: 2
+  book_id: 2
+  campus_id: 1
+  price: 92.99
+  condition: "Used"
+  condition_description: "This book is used. Has a torn page."

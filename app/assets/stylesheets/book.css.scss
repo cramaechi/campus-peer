@@ -1,0 +1,107 @@
+@font-face
+{
+  font-family: d;
+  src: local('GelPen'), url('fonts/GelPen.ttf');
+}
+
+#bk-div
+{
+  background-color: #383838;
+  width: 785px;
+  border: 2px solid #f16236;
+
+  padding: 0px 0px 20px 0px;
+  margin: 5px 0px 0px 15px;
+  overflow: hidden;
+    
+  #border
+  {
+    #box-title
+    {
+      font-size: 24px;
+      padding: 10px 0px 3px 18px;
+      font-family: d;
+      color: gray;
+    }
+  }
+
+  #bk-cover-div
+  {
+   float: left;
+   padding-top: 20px;
+   padding-left: 40px;
+  }
+
+  #bk-cover
+  {
+    width: 128px;
+    height: 172px;
+    box-shadow: -1px 4px 3px #000;
+    -moz-box-shadow: -1px 4px 3px #000;
+    -webkit-box-shadow: -1px 4px 7px #000;
+  }
+
+  #bk-info-div
+  {
+    padding-left: 210px;
+    padding-top: 18px;  /* 10px; */
+    font-family: "Arial";
+    font-size: 13px;
+    font-weight:bold;
+    color:#ffffff;
+    //max-width:20px;
+
+    .bk-heading
+    {
+      font-weight: bold;
+      font-size:14px;
+      padding-right: 15px;
+      color:#e1e1e1;
+    }
+
+    td
+    {
+      vertical-align: text-top;
+    }
+  }
+
+  .tble
+  {
+    width:530px;
+    margin-right: 14px;
+    border-radius:8px 8px 8px 8px;
+    background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .15);
+    table-layout:fixed;
+  }
+
+  .more-less-links
+  {
+    color:#f16236;
+  }
+
+  .bk-heading-width
+  {
+    width:171px;
+  }
+
+  .bk-value-width-form
+  {
+    width:329px;
+  }
+
+  #bk-value-width-show
+  {
+      /* Forces the content to break & wrap onto the next line at the appropriate 
+         break points. */
+      max-width:332px;
+      min-width:329px;
+      word-wrap:break-word;
+  }
+
+  .dash
+  {
+    border-bottom: 1px solid white;
+  }
+
+}

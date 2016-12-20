@@ -1,0 +1,30 @@
+<% content_for :head do %>
+  <title>CampusPeer | Resend confirmation instructions</title>
+  <%= stylesheet_link_tag "devise/ConfirmationsNew", :media => "all" %>
+<% end %>
+
+<div id="content-title"><h3>Resend confirmation</h3></div>
+<div id="content-form">
+
+<%= form_for(resource, :as => resource_name, :url => confirmation_path(resource_name), :html => { :method => :post }) do |f| %>
+  <% flash.now[:notice] = resource.errors.full_messages %>
+
+  <table cellspacing="10">
+  	<tr>
+  	  <td><%= f.label :email %></td>
+  	  <td><%= f.email_field :email, :class => "text-box", :autofocus => true %></td>
+  	  <td style="padding-top:4px;"><%= f.submit "", :type => :image, :src => "/assets/Shared/SubmitBtn5.png"%></td>
+  	</tr>
+  </table>
+
+<% end %>
+
+</div>
+
+<div id="user-links">
+  <%= link_to "SIGN IN", new_session_path(resource_name) %>  
+  <b>·</b>
+  <%= link_to "SIGN UP", new_registration_path(resource_name) %>
+  <b>·</b>
+  <%= link_to "PASSWORD LOOKUP?", new_password_path(resource_name) %>
+</div>

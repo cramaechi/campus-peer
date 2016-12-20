@@ -1,0 +1,143 @@
+/*Safari & Chrome support for placeholder text-color.*/
+::-webkit-input-placeholder 
+{
+	color:#a3a2a2;
+}
+
+/*Firefox support for placeholder text-color.*/
+#searchbox-container input:-moz-placeholder
+{
+	color:#a3a2a2;
+}
+
+/*IE support for placeholder text-color.*/
+:-ms-input-placeholder 
+{
+    color: #a3a2a2;
+}
+
+/*Cross-browser support for custom font.*/
+@font-face
+{
+	font-family: d;
+	src: local('GelPen'), url('fonts/GelPen.ttf');
+}
+
+#page-title
+{
+	float: left;
+	width:481px;
+	height:36px;
+	margin-left:44px;
+	padding-top:5px;
+	margin-bottom:10px;
+}
+
+#stw
+{
+	float:right;
+	font-family:d;
+	font-size:18px;
+	color:#9d9d9d;
+	margin-right:69px;
+	margin-top:13px;
+}
+
+#tip
+{
+	background-color:#efefef;
+	border:1px dashed #787878;
+	border-radius:3px 3px 3px 3px;
+	float: right;
+	font-size:13px;
+	font-family:d;
+	padding:5px;
+	margin-bottom:1px;
+	margin-right:46px;
+	box-shadow: 0px 2px 4px #afafaf;
+	-moz-box-shadow: 0px 4px 7px #bbbbbb;
+	-webkit-box-shadow: 0px 2px 4px #afafaf;
+}
+
+#books-area
+{
+	background-color: #383838;
+	width: 720px;
+	height: 172px;//165px;
+	border: 2px solid #f16236; //#d0d0d0 #f48462;
+
+	color: #c0c0c0;
+	padding-left:12px;
+	padding-top:5px;
+	margin-left:45px;
+	margin-top:95px;
+	clear:left;
+	box-shadow: 0px 4px 7px #afafaf;
+	-moz-box-shadow: 0px 4px 7px #bbbbbb;
+	-webkit-box-shadow: 0px 4px 7px #afafaf;
+
+}
+
+#scattered-books
+{
+	margin-left: 42px;
+	background :url(Shared/ScatteredBooks.png) no-repeat;
+	width: 757px;
+	height: 304px;
+	//clear:both;
+}
+
+.book-container
+{
+	padding-left: 10px;
+}
+
+.book
+{
+	float: left;
+	padding: 15px 15px 10px 15px;
+	font-size: 12px;
+}
+
+.book-cover
+{
+	visibility: hidden;
+	width: 108px;
+	height: 135px;
+
+	box-shadow: -1px 4px 7px #000;
+	-moz-box-shadow: -1px 4px 7px #000;
+	-webkit-box-shadow: -1px 4px 7px #000;
+}
+
+#loading
+{
+	width: 100px;
+	height: 100px;
+	background :url(Shared/loading.gif) no-repeat;
+}
+
+#noresults
+{
+	display: none;
+	margin: 25px 0px 0px 160px;
+	width: 400px;
+	height: 120px;
+	background: rgb(173, 173, 173); /* Fall-back for browsers that don't support rgba */
+    background: rgba(173, 173, 173, .15);
+    padding-bottom:5px;
+
+	p
+	{
+		padding-top: 45px;
+		font-size: 20px;
+	}
+}
+
+#show-more-results
+{
+	color:#4e97e9;
+	float:right;
+	padding-top:37px;
+	padding-right:40px;
+}

@@ -1,0 +1,2138 @@
+Alabama|Air University|u
+Alabama|Alabama A&M University|u
+Alabama|Alabama State University|u
+Alabama|Amridge University|u
+Alabama|Athens State University|u
+Alabama|Auburn University|u
+Alabama|Auburn University at Montgomery|u
+Alabama|Birmingham-Southern College|u
+Alabama|Concordia College–Selma|u
+Alabama|Faulkner University|u
+Alabama|Huntingdon College|u
+Alabama|Jacksonville State University|u
+Alabama|Judson College|u
+Alabama|Miles College|u
+Alabama|Oakwood University|u
+Alabama|Samford University|u
+Alabama|Southeastern Bible College|u
+Alabama|Spring Hill College|u
+Alabama|Stillman College|u
+Alabama|Talladega College|u
+Alabama|Troy University|u
+Alabama|Tuskegee University|u
+Alabama|United States Sports Academy|u
+Alabama|University of Alabama - Birmingham|u
+Alabama|University of Alabama - Huntsville|u
+Alabama|University of Alabama - Tuscaloosa|u
+Alabama|University of Mobile|u
+Alabama|University of Montevallo|u
+Alabama|University of North Alabama|u
+Alabama|University of South Alabama|u
+Alabama|University of West Alabama|u
+Alaska|Alaska Bible College|u
+Alaska|Alaska Pacific University|u
+Alaska|University of Alaska - Anchorage|u
+Alaska|University of Alaska - Fairbanks|u
+Alaska|University of Alaska - Southeast (Juneau)|u
+Arkansas|Arkansas Baptist College|u
+Arkansas|Arkansas State University|u
+Arkansas|Arkansas Tech University|u
+Arkansas|Central Baptist College|u
+Arkansas|Crowley's Ridge College|u
+Arkansas|Harding University|u
+Arkansas|Henderson State University|u
+Arkansas|Hendrix College|u
+Arkansas|John Brown University|u
+Arkansas|Lyon College|u
+Arkansas|Ouachita Baptist University|u
+Arkansas|Philander Smith College|u
+Arkansas|Southern Arkansas University|u
+Arkansas|University of Arkansas - Fayetteville|u
+Arkansas|University of Arkansas - Fort Smith|u
+Arkansas|University of Arkansas - Little Rock|u
+Arkansas|University of Arkansas - Medical Sciences|u
+Arkansas|University of Arkansas - Monticello|u
+Arkansas|University of Arkansas - Pine Bluff|u
+Arkansas|University of Central Arkansas|u
+Arkansas|University of the Ozarks|u
+Arkansas|Williams Baptist College|u
+Colorado|Adams State College|u
+Colorado|Art Institute of Colorado|u
+Colorado|College for Financial Planning|u
+Colorado|Colorado Christian University|u
+Colorado|Colorado College|u
+Colorado|Colorado Mesa University|u
+Colorado|Colorado School of Mines|u
+Colorado|Colorado State University|u
+Colorado|Colorado State University–Pueblo|u
+Colorado|Colorado Technical University|u
+Colorado|Denver Seminary|u
+Colorado|Fort Lewis College|u
+Colorado|Iliff School of Theology|u
+Colorado|Jones International University|u
+Colorado|Metropolitan State College of Denver|u
+Colorado|Naropa University|u
+Colorado|Nazarene Bible College|u
+Colorado|Regis University|u
+Colorado|Rocky Mountain College of Art & Design|u
+Colorado|United States Air Force Academy|u
+Colorado|University of Colorado - Boulder|u
+Colorado|University of Colorado - Colorado Springs|u
+Colorado|University of Colorado - Denver|u
+Colorado|University of Denver|u
+Colorado|University of Northern Colorado|u
+Colorado|University of the Rockies|u
+Colorado|Western State College of Colorado|u
+Connecticut|Albertus Magnus College|u
+Connecticut|Central Connecticut State University|u
+Connecticut|Charter Oak State College|u
+Connecticut|Connecticut College|u
+Connecticut|Eastern Connecticut State University|u
+Connecticut|Fairfield University|u
+Connecticut|Goodwin College|u
+Connecticut|Hartford Seminary|u
+Connecticut|Holy Apostles College & Seminary|u
+Connecticut|Lincoln College of New England|u
+Connecticut|Lyme Academy College of Fine Arts|u
+Connecticut|Mitchell College|u
+Connecticut|Post University|u
+Connecticut|Quinnipiac University|u
+Connecticut|Sacred Heart University|u
+Connecticut|Saint Joseph College|u
+Connecticut|Saint Vincent's College|u
+Connecticut|Southern Connecticut State University|u
+Connecticut|Trinity College|u
+Connecticut|United States Coast Guard Academy|u
+Connecticut|University of Bridgeport|u
+Connecticut|University of Connecticut|u
+Connecticut|University of Hartford|u
+Connecticut|University of New Haven|u
+Connecticut|Wesleyan University|u
+Connecticut|Western Connecticut State University|u
+Connecticut|Yale University|u
+Delaware|Delaware State University|u
+Delaware|Goldey-Beacom College|u
+Delaware|University of Delaware|u
+Delaware|Wesley College|u
+Delaware|Wilmington University|u
+Washington, DC|American University|u
+Washington, DC|The Catholic University of America|u
+Washington, DC|Corcoran College of Art & Design|u
+Washington, DC|Dominican House of Studies|u
+Washington, DC|Gallaudet University|u
+Washington, DC|George Washington University|u
+Washington, DC|Georgetown University|u
+Washington, DC|Howard University|u
+Washington, DC|Institute of World Politics|u
+Washington, DC|National Defense University|u
+Washington, DC|National Intelligence University|u
+Washington, DC|Potomac College|u
+Washington, DC|Strayer University|u
+Washington, DC|Trinity University|u
+Washington, DC|University of the District of Columbia|u
+Washington, DC|Washington Theological Union|u
+Washington, DC|Wesley Theological Seminary|u
+Florida|Ave Maria University|u
+Florida|The Baptist College of Florida|u
+Florida|Barry University|u
+Florida|Beacon College|u
+Florida|Bethune-Cookman University|u
+Florida|Carlos Albizu University–Miami Campus|u
+Florida|Clearwater Christian College|u
+Florida|DeVry University–Orlando|u
+Florida|Eckerd College|u
+Florida|Edward Waters College|u
+Florida|Embry-Riddle Aeronautical University|u
+Florida|Everglades University|u
+Florida|Flagler College|u
+Florida|Florida Christian College|u
+Florida|Florida College|u
+Florida|Broward College|u
+Florida|Chipola College|u
+Florida|College of Central Florida|u
+Florida|Daytona State College|u
+Florida|Edison State College|u
+Florida|Florida State College at Jacksonville|u
+Florida|Gulf Coast State College|u
+Florida|Indian River State College|u
+Florida|Miami Dade College|u
+Florida|Northwest Florida State College|u
+Florida|Palm Beach State College|u
+Florida|Pensacola State College|u
+Florida|Polk State College|u
+Florida|Saint Johns River State College|u
+Florida|Saint Petersburg College|u
+Florida|Santa Fe College|u
+Florida|Seminole State College of Florida|u
+Florida|State College of Florida, Manatee-Sarasota|u
+Florida|Valencia College|u
+Florida|Florida Hospital College of Health Sciences|u
+Florida|Florida Institute of Technology|u
+Florida|Florida Memorial University|u
+Florida|Florida National College|u
+Florida|Florida Southern College|u
+Florida|Hobe Sound Bible College|u
+Florida|Hodges University|u
+Florida|Jacksonville University|u
+Florida|Keiser University|u
+Florida|Lynn University|u
+Florida|Miami International University of Art & Design|u
+Florida|Northwood University|u
+Florida|Nova Southeastern University|u
+Florida|Palm Beach Atlantic University|u
+Florida|Rasmussen College|u
+Florida|Ringling College of Art & Design|u
+Florida|Rollins College|u
+Florida|Saint John Vianney College Seminary|u
+Florida|Saint Leo University|u
+Florida|Saint Thomas University|u
+Florida|Saint Vincent de Paul Regional Seminary|u
+Florida|South Florida Bible College & Theological Seminary|u
+Florida|Southeastern University|u
+Florida|Florida Agricultural & Mechanical University|u
+Florida|Florida Atlantic University|u
+Florida|Florida Gulf Coast University|u
+Florida|Florida International University|u
+Florida|Florida State University|u
+Florida|New College of Florida|u
+Florida|University of Central Florida|u
+Florida|University of Florida|u
+Florida|University of North Florida|u
+Florida|University of South Florida|u
+Florida|University of South Florida Saint Petersburg|u
+Florida|University of South Florida Sarasota-Manatee|u
+Florida|University of West Florida|u
+Florida|Stetson University|u
+Florida|Trinity College of Florida|u
+Florida|University of Miami|u
+Florida|University of Tampa|u
+Florida|Warner University|u
+Florida|Webber International University|u
+Hawaii|Brigham Young University–Hawaii|u
+Hawaii|Chaminade University|u
+Hawaii|Hawaii Pacific University|u
+Hawaii|University of Hawaii - Hilo|u
+Hawaii|University of Hawaii - Manoa|u
+Hawaii|University of Hawaii - Maui College|u
+Hawaii|University of Hawaii - West O'ahu|u
+Illinois|Adler School of Professional Psychology|u
+Illinois|American Academy of Art|u
+Illinois|American College of Education|u
+Illinois|American InterContinental University|u
+Illinois|Argosy University|u
+Illinois|Augustana College|u
+Illinois|Aurora University|u
+Illinois|Benedictine University|u
+Illinois|Blackburn College|u
+Illinois|Blessing-Rieman College of Nursing|u
+Illinois|Bradley University|u
+Illinois|Catholic Theological Union|u
+Illinois|Chamberlain College of Nursing|u
+Illinois|The Chicago School of Professional Psychology|u
+Illinois|Chicago State University|u
+Illinois|Chicago Theological Seminary|u
+Illinois|Columbia College Chicago|u
+Illinois|Concordia University–Chicago|u
+Illinois|DePaul University|u
+Illinois|DeVry University|u
+Illinois|DeVry University–Addison|u
+Illinois|DeVry University–Chicago|u
+Illinois|Dominican University|u
+Illinois|East-West University|u
+Illinois|Eastern Illinois University|u
+Illinois|Ellis University|u
+Illinois|Elmhurst College|u
+Illinois|Erikson Institute|u
+Illinois|Eureka College|u
+Illinois|Garrett-Evangelical Theological Seminary|u
+Illinois|Governors State University|u
+Illinois|Greenville College|u
+Illinois|Harrington College of Design|u
+Illinois|Hebrew Theological College|u
+Illinois|Illinois College|u
+Illinois|Illinois College of Optometry|u
+Illinois|Illinois Institute of Art|u
+Illinois|Illinois Institute of Art–Schaumburg|u
+Illinois|Illinois Institute of Technology|u
+Illinois|Illinois State University|u
+Illinois|Illinois Wesleyan University|u
+Illinois|Institute for Clinical Social Work|u
+Illinois|John Marshall Law School|u
+Illinois|Judson University|u
+Illinois|Kendall College|u
+Illinois|Knowledge Systems Institute|u
+Illinois|Knox College|u
+Illinois|Lake Forest College|u
+Illinois|Lake Forest Graduate School of Management|u
+Illinois|Lakeview College of Nursing|u
+Illinois|Lewis University|u
+Illinois|Lexington College|u
+Illinois|Lincoln Christian University|u
+Illinois|Lincoln College|u
+Illinois|Loyola University Chicago|u
+Illinois|Lutheran School of Theology at Chicago|u
+Illinois|MacMurray College|u
+Illinois|McCormick Theological Seminary|u
+Illinois|McKendree University|u
+Illinois|Methodist College of Nursing|u
+Illinois|Midstate College|u
+Illinois|Midwestern University|u
+Illinois|Millikin University|u
+Illinois|Monmouth College|u
+Illinois|Moody Bible Institute|u
+Illinois|National University of Health Sciences|u
+Illinois|National-Louis University|u
+Illinois|North Central College|u
+Illinois|North Park University|u
+Illinois|Northeastern Illinois University|u
+Illinois|Northern Baptist Theological Seminary|u
+Illinois|Northern Illinois University|u
+Illinois|Northwestern University|u
+Illinois|Olivet Nazarene University|u
+Illinois|Principia College|u
+Illinois|Quincy University|u
+Illinois|Rasmussen College|u
+Illinois|Resurrection University|u
+Illinois|Robert Morris University–Illinois|u
+Illinois|Rockford College|u
+Illinois|Roosevelt University|u
+Illinois|Rosalind Franklin University of Medicine & Science|u
+Illinois|Rush University|u
+Illinois|Saint Anthony College of Nursing|u
+Illinois|Saint Augustine College|u
+Illinois|Saint Francis Medical Center College of Nursing|u
+Illinois|Saint John's College|u
+Illinois|Saint Xavier University|u
+Illinois|School of the Art Institute of Chicago|u
+Illinois|Shimer College|u
+Illinois|Southern Illinois University - Carbondale|u
+Illinois|Southern Illinois University - Edwardsville|u
+Illinois|Spertus Institute of Jewish Studies|u
+Illinois|Toyota Technological Institute at Chicago|u
+Illinois|Trinity Christian College|u
+Illinois|Trinity College of Nursing & Health Sciences|u
+Illinois|Trinity International University|u
+Illinois|University of Chicago|u
+Illinois|University of Illinois - Chicago|u
+Illinois|University of Illinois - Springfield|u
+Illinois|University of Illinois - Urbana-Champaign|u
+Illinois|University of St. Francis|u
+Illinois|VanderCook College of Music|u
+Illinois|Western Illinois University|u
+Illinois|Wheaton College|u
+Kansas|Baker University|u
+Kansas|Barclay College|u
+Kansas|Benedictine College|u
+Kansas|Bethany College|u
+Kansas|Bethel College|u
+Kansas|Central Baptist Theological Seminary|u
+Kansas|Central Christian College of Kansas|u
+Kansas|Cleveland Chiropractic College|u
+Kansas|Donnelly College|u
+Kansas|Emporia State University|u
+Kansas|Fort Hays State University|u
+Kansas|Friends University|u
+Kansas|Haskell Indian Nations University|u
+Kansas|Kansas State University|u
+Kansas|Kansas State University–Salina College of Technology & Aviation|u
+Kansas|Kansas Wesleyan University|u
+Kansas|Manhattan Christian College|u
+Kansas|McPherson College|u
+Kansas|MidAmerica Nazarene University|u
+Kansas|Newman University|u
+Kansas|Ottawa University|u
+Kansas|Pittsburg State University|u
+Kansas|Southwestern College|u
+Kansas|Sterling College|u
+Kansas|Tabor College|u
+Kansas|United States Army Command & General Staff College|u
+Kansas|University of Kansas|u
+Kansas|University of Kansas Medical Center|u
+Kansas|University of Saint Mary|u
+Kansas|Washburn University|u
+Kansas|Wichita State University|u
+Louisiana|Centenary College of Louisiana|u
+Louisiana|Dillard University|u
+Louisiana|Grambling State University|u
+Louisiana|Louisiana College|u
+Louisiana|Louisiana State University - Alexandria|u
+Louisiana|Louisiana State University - Baton Rouge|u
+Louisiana|Louisiana State University - Health Sciences Center–New Orleans|u
+Louisiana|Louisiana State University - Health Sciences Center–Shreveport|u
+Louisiana|Louisiana State University - Law Center|u
+Louisiana|Louisiana State University - Shreveport|u
+Louisiana|Louisiana State University - University of New Orleans|u
+Louisiana|Louisiana Tech University|u
+Louisiana|Loyola University New Orleans|u
+Louisiana|McNeese State University|u
+Louisiana|New Orleans Baptist Theological Seminary|u
+Louisiana|Nicholls State University|u
+Louisiana|Northwestern State University of Louisiana|u
+Louisiana|Notre Dame Seminary|u
+Louisiana|Our Lady of Holy Cross College|u
+Louisiana|Our Lady of the Lake College|u
+Louisiana|Saint Joseph Seminary College|u
+Louisiana|Southeastern Louisiana University|u
+Louisiana|Southern University - Baton Rouge|u
+Louisiana|Southern University - New Orleans|u
+Louisiana|Tulane University|u
+Louisiana|University of Louisiana - Lafayette|u
+Louisiana|University of Louisiana - Monroe|u
+Louisiana|Xavier University of Louisiana|u
+Maryland|Capitol College|u
+Maryland|College of Notre Dame of Maryland|u
+Maryland|Goucher College|u
+Maryland|Hood College|u
+Maryland|Johns Hopkins University|u
+Maryland|Loyola University Maryland|u
+Maryland|Maryland institute College of Art|u
+Maryland|McDaniel College|u
+Maryland|Morgan State University|u
+Maryland|Mount Saint Mary's University|u
+Maryland|National Labor College|u
+Maryland|Saint John's College–Annapolis|u
+Maryland|Saint Mary's College of Maryland|u
+Maryland|Saint Mary's Seminary & University|u
+Maryland|Soujourner-Douglass College|u
+Maryland|Stevenson University|u
+Maryland|Tai Sophia Institute|u
+Maryland|Uniformed Services University of the Health Sciences|u
+Maryland|United States Naval Academy|u
+Maryland|Bowie State University|u
+Maryland|Coppin State University|u
+Maryland|Frostburg State University|u
+Maryland|Salisbury University|u
+Maryland|Towson University|u
+Maryland|University of Baltimore|u
+Maryland|University of Maryland–Baltimore|u
+Maryland|University of Maryland–Baltimore County|u
+Maryland|University of Maryland–College Park|u
+Maryland|University of Maryland–Eastern Shore|u
+Maryland|University of Maryland–University College|u
+Maryland|Washington Adventist University|u
+Maryland|Washington Bible College/Capital Bible Seminary|u
+Maryland|Washington College|u
+Michigan|Adrian College|u
+Michigan|Albion College|u
+Michigan|Alma College|u
+Michigan|Andrews University|u
+Michigan|Aquinas College|u
+Michigan|Baker College|u
+Michigan|Calvin College|u
+Michigan|Central Michigan University|u
+Michigan|Cleary University|u
+Michigan|College for Creative Studies|u
+Michigan|Concordia University–Ann Arbor|u
+Michigan|Cornerstone University|u
+Michigan|Cranbrook Academy of Art|u
+Michigan|Davenport University|u
+Michigan|Eastern Michigan University|u
+Michigan|Ferris State University|u
+Michigan|Kendall College of Art & Design|u
+Michigan|Finlandia University|u
+Michigan|Grace Bible College|u
+Michigan|Grand Valley State University|u
+Michigan|Great Lakes Christian College|u
+Michigan|Hillsdale College|u
+Michigan|Hope College|u
+Michigan|Kalamazoo College|u
+Michigan|Kettering University|u
+Michigan|Kuyper College|u
+Michigan|Lake Superior State University|u
+Michigan|Lawrence Technological University|u
+Michigan|Madonna University|u
+Michigan|Marygrove College|u
+Michigan|Michigan School of Professional Psychology|u
+Michigan|Michigan State University|u
+Michigan|Michigan Technological University|u
+Michigan|Miller College|u
+Michigan|Northern Michigan University|u
+Michigan|Northwood University|u
+Michigan|Oakland University|u
+Michigan|Olivet College|u
+Michigan|Rochester College|u
+Michigan|Sacred Heart Major Seminary|u
+Michigan|Saginaw Valley State University|u
+Michigan|Siena Heights University|u
+Michigan|Spring Arbor University|u
+Michigan|Thomas M. Cooley Law School|u
+Michigan|University of Detroit Mercy|u
+Michigan|University of Michigan - Ann Arbor (main campus)|u
+Michigan|University of Michigan - Dearborn|u
+Michigan|University of Michigan - Flint|u
+Michigan|Walsh College|u
+Michigan|Wayne State University|u
+Michigan|Western Michigan University|u
+Minnesota|Adler Graduate School|u
+Minnesota|Augsburg College|u
+Minnesota|Bethany Lutheran College|u
+Minnesota|Bethel University & Seminary|u
+Minnesota|Capella University|u
+Minnesota|Carleton College|u
+Minnesota|College of Saint Benedict|u
+Minnesota|College of Saint Scholastica|u
+Minnesota|College of Visual Arts|u
+Minnesota|Concordia College–Moorhead|u
+Minnesota|Concordia University–Saint Paul|u
+Minnesota|Crossroads College|u
+Minnesota|Crown College|u
+Minnesota|Dunwoody College of Technology|u
+Minnesota|Gustavus Adolphus College|u
+Minnesota|Hamline University|u
+Minnesota|Hazelden Graduate School of Addiction Studies|u
+Minnesota|Luther Seminary|u
+Minnesota|Macalester College|u
+Minnesota|Martin Luther College|u
+Minnesota|Mayo Clinic College of Medicine|u
+Minnesota|Mayo Graduate School|u
+Minnesota|Mayo Medical School|u
+Minnesota|Mayo School of Health Sciences|u
+Minnesota|Minneapolis College of Art & Design|u
+Minnesota|Bemidji State University|u
+Minnesota|Metropolitan State University|u
+Minnesota|Minnesota State University–Mankato|u
+Minnesota|Minnesota State University–Moorhead|u
+Minnesota|Saint Cloud State University|u
+Minnesota|Southwest Minnesota State University|u
+Minnesota|Winona State University|u
+Minnesota|North Central University|u
+Minnesota|Northwestern College|u
+Minnesota|Northwestern Health Sciences University|u
+Minnesota|Oak Hills Christian College|u
+Minnesota|Rasmussen College|u
+Minnesota|Saint Catherine University|u
+Minnesota|Saint John's University|u
+Minnesota|Saint Mary's University of Minnesota|u
+Minnesota|Saint Olaf College|u
+Minnesota|United Theological Seminary of the Twin Cities|u
+Minnesota|University of Minnesota - Twin Cities (main campus)|u
+Minnesota|University of Minnesota - Crookston|u
+Minnesota|University of Minnesota - Duluth|u
+Minnesota|University of Minnesota - Morris|u
+Minnesota|University of Saint Thomas|u
+Minnesota|Walden University|u
+Montana|Carroll College|u
+Montana|Montana State University - Billings|u
+Montana|Montana State University - Bozeman|u
+Montana|Montana State University - Northern|u
+Montana|Rocky Mountain College|u
+Montana|Salish Kootenai College|u
+Montana|University of Great Falls|u
+Montana|Montana Tech|u
+Montana|University of Montana–Missoula|u
+Montana|University of Montana–Western|u
+Nebraska|Bellevue University|u
+Nebraska|BryanLGH College of Health Sciences|u
+Nebraska|Chadron State College|u
+Nebraska|Clarkson College|u
+Nebraska|College of Saint Mary|u
+Nebraska|Concordia University–Nebraska|u
+Nebraska|Creighton University|u
+Nebraska|Doane College|u
+Nebraska|Grace University|u
+Nebraska|Hastings College|u
+Nebraska|Midland University|u
+Nebraska|Nebraska Christian College|u
+Nebraska|Nebraska Methodist College|u
+Nebraska|Nebraska Wesleyan University|u
+Nebraska|Peru State College|u
+Nebraska|Saint Gregory the Great Seminary|u
+Nebraska|Union College|u
+Nebraska|University of Nebraska - Kearney|u
+Nebraska|University of Nebraska - Lincoln|u
+Nebraska|University of Nebraska - Medical Center|u
+Nebraska|University of Nebraska - Omaha|u
+Nebraska|Wayne State College|u
+Nebraska|York College|u
+New Hampshire|Antioch University–New England|u
+New Hampshire|Chester College of New England|u
+New Hampshire|Colby-Sawyer College|u
+New Hampshire|Daniel Webster College|u
+New Hampshire|Dartmouth College|u
+New Hampshire|Franklin Pierce University|u
+New Hampshire|Granite State College|u
+New Hampshire|Hesser College|u
+New Hampshire|Keene State College|u
+New Hampshire|New England College|u
+New Hampshire|Plymouth State University|u
+New Hampshire|Rivier College|u
+New Hampshire|Saint Anselm College|u
+New Hampshire|Southern New Hampshire University|u
+New Hampshire|The Thomas More College of Liberal Arts|u
+New Hampshire|University of New Hampshire|u
+New Hampshire|University of New Hampshire at Manchester|u
+New Hampshire|University of New Hampshire School of Law|u
+New Mexico|Eastern New Mexico University|u
+New Mexico|Institute of American Indian Arts|u
+New Mexico|Navajo Technical College|u
+New Mexico|New Mexico Highlands University|u
+New Mexico|New Mexico Institute of Mining & Technology|u
+New Mexico|New Mexico State University|u
+New Mexico|Northern New Mexico College|u
+New Mexico|Saint John's College–Santa Fe|u
+New Mexico|Santa Fe University of Art & Design|u
+New Mexico|Southwestern College|u
+New Mexico|University of New Mexico|u
+New Mexico|University of the Southwest|u
+New Mexico|Western New Mexico University|u
+North Carolina|Barton College|u
+North Carolina|Belmont Abbey College|u
+North Carolina|Bennett College for Women|u
+North Carolina|Brevard College|u
+North Carolina|Cabarrus College of Health Sciences|u
+North Carolina|Campbell University|u
+North Carolina|Catawba College|u
+North Carolina|Chowan College|u
+North Carolina|Davidson College|u
+North Carolina|Duke University|u
+North Carolina|Elon University|u
+North Carolina|Gardner-Webb University|u
+North Carolina|Greensboro College|u
+North Carolina|Guilford College|u
+North Carolina|High Point University|u
+North Carolina|Johnson C. Smith University|u
+North Carolina|Lees-McRae College|u
+North Carolina|Lenoir-Rhyne University|u
+North Carolina|Livingstone College|u
+North Carolina|Mars Hill College|u
+North Carolina|Meredith College|u
+North Carolina|Methodist University|u
+North Carolina|Mid-Atlantic Christian University|u
+North Carolina|Montreat College|u
+North Carolina|Mount Olive College|u
+North Carolina|North Carolina Wesleyan College|u
+North Carolina|Peace College|u
+North Carolina|Pfeiffer University|u
+North Carolina|Queens University of Charlotte|u
+North Carolina|Saint Andrews Presbyterian College|u
+North Carolina|Saint Augustine's College|u
+North Carolina|Salem College|u
+North Carolina|Shaw University|u
+North Carolina|Southeastern Baptist Theological Seminary|u
+North Carolina|Appalachian State University|u
+North Carolina|East Carolina University|u
+North Carolina|Elizabeth City State University|u
+North Carolina|Fayetteville State University|u
+North Carolina|North Carolina A&T State University|u
+North Carolina|North Carolina Central University|u
+North Carolina|North Carolina State University|u
+North Carolina|UNC Asheville|u
+North Carolina|UNC Chapel Hill|u
+North Carolina|UNC Charlotte|u
+North Carolina|UNC Greensboro|u
+North Carolina|UNC Pembroke|u
+North Carolina|UNC School of the Arts|u
+North Carolina|UNC Wilmington|u
+North Carolina|Western Carolina University|u
+North Carolina|Winston-Salem State University|u
+North Carolina|Wake Forest University|u
+North Carolina|Warren Wilson College|u
+North Carolina|Wingate University|u
+North Dakota|Jamestown College|u
+North Dakota|Medcenter One College of Nursing|u
+North Dakota|Bismark State College|u
+North Dakota|Dickinson State University|u
+North Dakota|Mayville State University|u
+North Dakota|Minot State University|u
+North Dakota|North Dakota State University|u
+North Dakota|University of North Dakota|u
+North Dakota|Valley City State University|u
+North Dakota|Rasmussen College|u
+North Dakota|Sitting Bull College|u
+North Dakota|Trinity Bible College|u
+North Dakota|Turtle Mountain Community College|u
+North Dakota|University of Mary|u
+Ohio|Air Force Institute of Technology|u
+Ohio|Antioch College|u
+Ohio|Antioch University–Midwest|u
+Ohio|Art Academy of Cincinnati|u
+Ohio|Ashland University|u
+Ohio|Athenaeum of Ohio|u
+Ohio|Baldwin-Wallace College|u
+Ohio|Bluffton University|u
+Ohio|Capital University|u
+Ohio|Case Western Reserve University|u
+Ohio|Cedarville University|u
+Ohio|Chancellor University|u
+Ohio|Cincinnati Christian University|u
+Ohio|Cincinnati College of Mortuary Science|u
+Ohio|Cleveland Institute of Art|u
+Ohio|Cleveland Institute of Music|u
+Ohio|College of Mount Saint Joseph|u
+Ohio|College of Wooster|u
+Ohio|Columbus College of Art & Design|u
+Ohio|Defiance College|u
+Ohio|Denison University|u
+Ohio|Franciscan University of Steubenville|u
+Ohio|Franklin University|u
+Ohio|God's Bible School & College|u
+Ohio|Hebrew Union College-Jewish Institute of Religion|u
+Ohio|Heidelberg College|u
+Ohio|Hiram College|u
+Ohio|John Carroll University|u
+Ohio|Kenyon College|u
+Ohio|Kettering College|u
+Ohio|Lake Erie College|u
+Ohio|Lourdes University|u
+Ohio|Malone College|u
+Ohio|Marietta College|u
+Ohio|Mercy College of Northwest Ohio|u
+Ohio|Methodist Theological School in Ohio|u
+Ohio|Mount Carmel College of Nursing|u
+Ohio|Mount Vernon Nazarene University|u
+Ohio|Muskingum University|u
+Ohio|Notre Dame College|u
+Ohio|Oberlin College|u
+Ohio|Ohio Christian University|u
+Ohio|Ohio College of Podiatric Medicine|u
+Ohio|Ohio Dominican University|u
+Ohio|Ohio Northern University|u
+Ohio|Ohio Wesleyan University|u
+Ohio|Otterbein University|u
+Ohio|Pontifical College Josephinum|u
+Ohio|Saint Mary Seminary & Graduate School of Theology|u
+Ohio|Siegal College of Judaic Studies|u
+Ohio|Tiffin University|u
+Ohio|Trinity Lutheran Seminary|u
+Ohio|Union Institute & University|u
+Ohio|United Theological Seminary|u
+Ohio|University of Dayton|u
+Ohio|The University of Findlay|u
+Ohio|University of Mount Union|u
+Ohio|University of Northwestern Ohio|u
+Ohio|University of Rio Grande|u
+Ohio|Bowling Green State University|u
+Ohio|Central State University|u
+Ohio|Cleveland State University|u
+Ohio|Kent State University (main campus)|u
+Ohio|Kent State University–Ashtabula Campus|u
+Ohio|Kent State University–East Liverpool Campus|u
+Ohio|Kent State University–Geauga Campus|u
+Ohio|Kent State University–Salem Campus|u
+Ohio|Kent State University–Stark Campus|u
+Ohio|Kent State University–Trumbull Campus|u
+Ohio|Kent State University–Tuscarawas Campus|u
+Ohio|Miami University|u
+Ohio|Miami University–Hamilton|u
+Ohio|Northeastern Ohio Universities Colleges of Medicine & Pharmacy|u
+Ohio|Ohio State University–Columbus (main campus)|u
+Ohio|Ohio State University–Lima|u
+Ohio|Ohio State University–Mansfield|u
+Ohio|Ohio State University–Marion|u
+Ohio|Ohio State University–Newark|u
+Ohio|Ohio University|u
+Ohio|Ohio University–Eastern Campus|u
+Ohio|Ohio University–Lancaster|u
+Ohio|Ohio University–Zanesville|u
+Ohio|Shawnee State University|u
+Ohio|University of Akron|u
+Ohio|University of Cincinnati|u
+Ohio|University of Cincinnati–Blue Ash|u
+Ohio|University of Toledo|u
+Ohio|University of Toledo Medical Center|u
+Ohio|Wright State University|u
+Ohio|Youngstown State University|u
+Ohio|Urbana University|u
+Ohio|Ursuline College|u
+Ohio|Walsh University|u
+Ohio|Wilberforce University|u
+Ohio|Wilmington College|u
+Ohio|Wittenberg University|u
+Ohio|Xavier University|u
+Oregon|Art Institute of Portland|u
+Oregon|Concordia University–Portland|u
+Oregon|Corban University|u
+Oregon|Eastern Oregon University|u
+Oregon|George Fox University|u
+Oregon|Lewis & Clark College|u
+Oregon|Linfield College|u
+Oregon|Marylhurst University|u
+Oregon|Mount Angel Seminary|u
+Oregon|Multnomah University|u
+Oregon|National College of Natural Medicine|u
+Oregon|New Hope Christian College|u
+Oregon|Northwest Christian University|u
+Oregon|Oregon College of Art & Craft|u
+Oregon|Oregon Health & Science University|u
+Oregon|Oregon Institute of Technology|u
+Oregon|Oregon State University|u
+Oregon|Pacific Northwest College of Art|u
+Oregon|Pacific University|u
+Oregon|Portland State University|u
+Oregon|Reed College|u
+Oregon|Southern Oregon University|u
+Oregon|University of Oregon|u
+Oregon|University of Portland|u
+Oregon|University of Western States|u
+Oregon|Warner Pacific College|u
+Oregon|Western Oregon University|u
+Oregon|Western Seminary|u
+Oregon|Willamette University|u
+Rhode Island|Brown University|u
+Rhode Island|Bryant University|u
+Rhode Island|Johnson & Wales University|u
+Rhode Island|New England Institute of Technology|u
+Rhode Island|Providence College|u
+Rhode Island|Rhode Island College|u
+Rhode Island|Rhode Island School of Design|u
+Rhode Island|Roger Williams University|u
+Rhode Island|Salve Regina University|u
+Rhode Island|United States Naval War College|u
+Rhode Island|University of Rhode Island|u
+South Carolina|Allen University|u
+South Carolina|Anderson University|u
+South Carolina|Benedict College|u
+South Carolina|Charleston Southern University|u
+South Carolina|The Citadel|u
+South Carolina|Claflin University|u
+South Carolina|Clemson University|u
+South Carolina|Coastal Carolina University|u
+South Carolina|Coker College|u
+South Carolina|College of Charleston|u
+South Carolina|Columbia College|u
+South Carolina|Columbia International University|u
+South Carolina|Converse College|u
+South Carolina|Erskine College|u
+South Carolina|Francis Marion University|u
+South Carolina|Furman University|u
+South Carolina|Lander University|u
+South Carolina|Limestone College|u
+South Carolina|Medical University of South Carolina|u
+South Carolina|Morris College|u
+South Carolina|Newberry College|u
+South Carolina|North Greenville University|u
+South Carolina|Presbyterian College|u
+South Carolina|Sherman College of Chiropractic|u
+South Carolina|South Carolina State University|u
+South Carolina|Southern Wesleyan University|u
+South Carolina|University of South Carolina - Aiken|u
+South Carolina|University of South Carolina - Beaufort|u
+South Carolina|University of South Carolina - Columbia|u
+South Carolina|University of South Carolina - Upstate|u
+South Carolina|Voorhees College|u
+South Carolina|Winthrop University|u
+South Carolina|Wofford College|u
+South Dakota|Augustana College|u
+South Dakota|Black Hills State University|u
+South Dakota|Dakota State University|u
+South Dakota|Dakota Wesleyan University|u
+South Dakota|Mount Marty College|u
+South Dakota|National American University|u
+South Dakota|Northern State University|u
+South Dakota|Oglala Lakota College|u
+South Dakota|Presentation College|u
+South Dakota|Sinte Gleska University|u
+South Dakota|Sioux Falls Seminary|u
+South Dakota|South Dakota School of Mines & Technology|u
+South Dakota|South Dakota State University|u
+South Dakota|University of Sioux Falls|u
+South Dakota|University of South Dakota|u
+Tennessee|Aquinas College|u
+Tennessee|Austin Peay State University|u
+Tennessee|Baptist Memorial College of Health Sciences|u
+Tennessee|Belmont University|u
+Tennessee|Bethel University|u
+Tennessee|Bryan College|u
+Tennessee|Carson-Newman College|u
+Tennessee|Christian Brothers University|u
+Tennessee|Cumberland University|u
+Tennessee|East Tennessee State University|u
+Tennessee|Emmanuel Christian Seminary|u
+Tennessee|Fisk University|u
+Tennessee|Free Will Baptist Bible College|u
+Tennessee|Freed-Hardeman University|u
+Tennessee|Johnson University|u
+Tennessee|King College|u
+Tennessee|Lane College|u
+Tennessee|Lee University|u
+Tennessee|LeMoyne-Owen College|u
+Tennessee|Lincoln Memorial University|u
+Tennessee|Lipscomb University|u
+Tennessee|Martin Methodist College|u
+Tennessee|Maryville College|u
+Tennessee|Meharry Medical College|u
+Tennessee|Memphis College of Art|u
+Tennessee|Memphis Theological Seminary|u
+Tennessee|Mid-America Baptist Theological Seminary|u
+Tennessee|Middle Tennessee School of Anesthesia|u
+Tennessee|Middle Tennessee State University|u
+Tennessee|Milligan College|u
+Tennessee|Pentecostal Theological Seminary|u
+Tennessee|Rhodes College|u
+Tennessee|South College|u
+Tennessee|Southern Adventist University|u
+Tennessee|Southern College of Optometry|u
+Tennessee|Tennessee State University|u
+Tennessee|Tennessee Technological University|u
+Tennessee|Tennessee Wesleyan College|u
+Tennessee|Trevecca Nazarene University|u
+Tennessee|Tusculum College|u
+Tennessee|Union University|u
+Tennessee|University of Memphis|u
+Tennessee|University of Tennessee - Chattanooga|u
+Tennessee|University of Tennessee - Health Science Center|u
+Tennessee|University of Tennessee - Knoxville|u
+Tennessee|University of Tennessee - Martin|u
+Tennessee|University of the South|u
+Tennessee|Vanderbilt University|u
+Tennessee|Victory University|u
+Tennessee|Watkins College of Art, Design, & Film|u
+Utah|Brigham Young University|u
+Utah|Dixie State College|u
+Utah|Southern Utah University|u
+Utah|University of Utah|u
+Utah|Utah State University|u
+Utah|Utah Valley University|u
+Utah|Weber State University|u
+Utah|Western Governors University|u
+Utah|Westminster College|u
+Vermont|Bennington College|u
+Vermont|Burlington College|u
+Vermont|Castleton State College|u
+Vermont|Champlain College|u
+Vermont|College of Saint Joseph|u
+Vermont|Goddard College|u
+Vermont|Green Mountain College|u
+Vermont|Johnson State College|u
+Vermont|Lyndon State College|u
+Vermont|Marlboro College|u
+Vermont|Middlebury College|u
+Vermont|Norwich University|u
+Vermont|Saint Michael's College|u
+Vermont|School for International Training|u
+Vermont|Southern Vermont College|u
+Vermont|Sterling College|u
+Vermont|University of Vermont|u
+Vermont|Vermont College of Fine Arts|u
+Vermont|Vermont Law School|u
+Vermont|Vermont Technical College|u
+Virginia|Averett University|u
+Virginia|Bluefield College|u
+Virginia|Bridgewater College|u
+Virginia|Christendom College|u
+Virginia|Christopher Newport University|u
+Virginia|College of William and Mary|u
+Virginia|DeVry University–Arlington|u
+Virginia|Eastern Mennonite University|u
+Virginia|Eastern Virginia Medical School|u
+Virginia|ECPI University|u
+Virginia|Emory & Henry College|u
+Virginia|Ferrum College|u
+Virginia|George Mason University|u
+Virginia|George Washington University–Virginia Campus|u
+Virginia|Hampden-Sydney College|u
+Virginia|Hampton University|u
+Virginia|Hollins University|u
+Virginia|Institute for the Psychological Sciences|u
+Virginia|James Madison University|u
+Virginia|Jefferson College of Health Sciences|u
+Virginia|Liberty University|u
+Virginia|Longwood University|u
+Virginia|Lynchburg College|u
+Virginia|Marine Corps University|u
+Virginia|Mary Baldwin College|u
+Virginia|Marymount University|u
+Virginia|Norfolk State University|u
+Virginia|Old Dominion University|u
+Virginia|Radford University|u
+Virginia|Randolph College|u
+Virginia|Randolph-Macon College|u
+Virginia|Regent University|u
+Virginia|Roanoke College|u
+Virginia|Saint Paul's College|u
+Virginia|Shenandoah University|u
+Virginia|Sweet Briar College|u
+Virginia|Union Presbyterian Seminary|u
+Virginia|University of Mary Washington|u
+Virginia|University of Richmond|u
+Virginia|University of Virginia|u
+Virginia|University of Virginia's College at Wise|u
+Virginia|Virginia Commonwealth University|u
+Virginia|Virginia Intermont College|u
+Virginia|Virginia Military Institute|u
+Virginia|Virginia Polytechnic Institute & State University|u
+Virginia|Virginia State University|u
+Virginia|Virginia Union University|u
+Virginia|Virginia Wesleyan College|u
+Virginia|Washington & Lee University|u
+Washington|Antioch University–Seattle|u
+Washington|Art Institute of Seattle|u
+Washington|Bastyr University|u
+Washington|Bellevue College|u
+Washington|Central Washington University|u
+Washington|City University of Seattle|u
+Washington|Cornish College of the Arts|u
+Washington|Eastern Washington University|u
+Washington|Evergreen State College|u
+Washington|Gonzaga University|u
+Washington|Heritage University|u
+Washington|Northwest Indian College|u
+Washington|Northwest University|u
+Washington|Olympic College|u
+Washington|Pacific Lutheran University|u
+Washington|Peninsula College|u
+Washington|Saint Martin's University|u
+Washington|Seattle Pacific University|u
+Washington|Seattle University|u
+Washington|Trinity Lutheran College|u
+Washington|University of Puget Sound|u
+Washington|University of Washington - Bothell|u
+Washington|University of Washington - Tacoma|u
+Washington|Walla Walla University|u
+Washington|Washington State University - Spokane|u
+Washington|Washington State University - Tri-Cities|u
+Washington|Washington State University - Vancouver|u
+Washington|Western Governors University–Washington|u
+Washington|Western Washington University|u
+Washington|Whitman College|u
+Washington|Whitworth University|u
+Wisconsin|Alverno College|u
+Wisconsin|Bellin College|u
+Wisconsin|Beloit College|u
+Wisconsin|Cardinal Stritch University|u
+Wisconsin|Carroll University|u
+Wisconsin|Carthage College|u
+Wisconsin|College of the Menominee Nation|u
+Wisconsin|Columbia College of Nursing|u
+Wisconsin|Concordia University–Wisconsin|u
+Wisconsin|Edgewood College|u
+Wisconsin|Herzing University|u
+Wisconsin|Lakeland College|u
+Wisconsin|Lawrence University|u
+Wisconsin|Maranatha Baptist Bible College|u
+Wisconsin|Marian University|u
+Wisconsin|Marquette University|u
+Wisconsin|Medical College of Wisconsin|u
+Wisconsin|Milwaukee Institute of Art & Design|u
+Wisconsin|Milwaukee School of Engineering|u
+Wisconsin|Mount Mary College|u
+Wisconsin|Northland College|u
+Wisconsin|Rasmussen College|u
+Wisconsin|Ripon College|u
+Wisconsin|Sacred Heart School of Theology|u
+Wisconsin|Saint Norbert College|u
+Wisconsin|Silver Lake College|u
+Wisconsin|University of Wisconsin - Eau Claire|u
+Wisconsin|University of Wisconsin - Green Bay|u
+Wisconsin|University of Wisconsin - La Crosse|u
+Wisconsin|University of Wisconsin - Madison|u
+Wisconsin|University of Wisconsin - Milwaukee|u
+Wisconsin|University of Wisconsin - Oshkosh|u
+Wisconsin|University of Wisconsin - Parkside|u
+Wisconsin|University of Wisconsin - Platteville|u
+Wisconsin|University of Wisconsin - River Falls|u
+Wisconsin|University of Wisconsin - Stevens Point|u
+Wisconsin|University of Wisconsin - Stout|u
+Wisconsin|University of Wisconsin - Superior|u
+Wisconsin|University of Wisconsin - Whitewater|u
+Wisconsin|Viterbo University|u
+Wisconsin|Wisconsin Lutheran College|u
+Wisconsin|Wisconsin School of Professional Psychology|u
+U.S. Virgin Islands|University of the Virgin Islands|u
+Arizona|A.T. Still University of Health Sciences|u
+Arizona|American Indian College of the Assemblies of God|u
+Arizona|Arizona Christian University|u
+Arizona|Arizona State University - Downtown Phoenix|u
+Arizona|Arizona State University - Polytechnic|u
+Arizona|Arizona State University - West|u
+Arizona|Arizona State University - Tempe|u
+Arizona|Art Center Design College|u
+Arizona|DeVry University–Phoenix|u
+Arizona|Embry-Riddle Aeronautical University|u
+Arizona|Frank Lloyd Wright School of Architecture|u
+Arizona|Grand Canyon University|u
+Arizona|Midwestern University-Glendale campus|u
+Arizona|Northcentral University|u
+Arizona|Northern Arizona University|u
+Arizona|Prescott College|u
+Arizona|Southwest College of Naturopathic Medicine & Health Sciences|u
+Arizona|Thunderbird School of Global Management|u
+Arizona|University of Advancing Technology|u
+Arizona|University of Arizona|u
+Arizona|University of Phoenix|u
+Arizona|Western International University|u
+California|Academy of Art University|u
+California|Alliant International University|u
+California|American Conservatory Theater|u
+California|American Film Institute|u
+California|American Jewish University|u
+California|Antioch University–Los Angeles|u
+California|Antioch University–Santa Barbara|u
+California|Art Center College of Design|u
+California|Azusa Pacific University|u
+California|Bethany University|u
+California|Bethesda Christian University|u
+California|Biola University|u
+California|Brandman University|u
+California|California Baptist University|u
+California|California College of the Arts|u
+California|California Institute of the Arts|u
+California|California Institute of Integral Studies|u
+California|California Institute of Technology|u
+California|California Lutheran University|u
+California|California State University - Bakersfield|u
+California|California State University - California Maritime Academy|u
+California|California State University - California Polytechnic State University, San Luis Obispo|u
+California|California State University - California State Polytechnic University, Pomona|u
+California|California State University - Channel Islands|u
+California|California State University - Chico|u
+California|California State University - Dominguez Hills|u
+California|California State University - East Bay|u
+California|California State University - Fresno|u
+California|California State University - Fullerton|u
+California|California State University - Long Beach|u
+California|California State University - Los Angeles|u
+California|California State University - Monterey Bay|u
+California|California State University - Northridge|u
+California|California State University - Sacramento|u
+California|California State University - San Bernardino|u
+California|California State University - San Marcos|u
+California|California State University - Stanislaus|u
+California|Humboldt State University|u
+California|San Diego State University|u
+California|San Francisco State University|u
+California|San José State University|u
+California|Sonoma State University|u
+California|Chapman University|u
+California|Charles R. Drew University of Medicine & Science|u
+California|Church Divinity School of the Pacific|u
+California|Claremont Graduate University|u
+California|Claremont McKenna College|u
+California|Harvey Mudd College|u
+California|Keck Graduate Institute of Applied Life Sciences|u
+California|Pitzer College|u
+California|Pomona College|u
+California|Scripps College|u
+California|Claremont School of Theology|u
+California|Cogswell Polytechnical College|u
+California|Concordia University–Irvine|u
+California|DeVry University–Long Beach|u
+California|DeVry University–Pomona|u
+California|Dominican School of Philosophy & Theology|u
+California|Dominican University of California|u
+California|Fashion Institute of Design & Merchandising|u
+California|Fielding Graduate University|u
+California|Franciscan School of Theology|u
+California|Fresno Pacific University|u
+California|Fuller Theological Seminary|u
+California|Golden Gate Baptist Theological Seminary|u
+California|Golden Gate University|u
+California|Graduate Theological Union|u
+California|Hebrew Union College-Jewish Institute of Religion|u
+California|Holy Names University|u
+California|Hope International University|u
+California|Humphreys College|u
+California|Institute of Transpersonal Psychology|u
+California|Irell & Manella Graduate School of Biological Sciences|u
+California|John F. Kennedy University|u
+California|La Sierra University|u
+California|Laguna College of Art & Design|u
+California|Life Pacific College|u
+California|Loma Linda University|u
+California|Loyola Marymount University|u
+California|Marymount College|u
+California|The Master's College|u
+California|The Master's Seminary|u
+California|Menlo College|u
+California|Mills College|u
+California|Mount Saint Mary's College|u
+California|National Hispanic University|u
+California|National University|u
+California|Naval Postgraduate School|u
+California|Notre Dame de Namur University|u
+California|Occidental College|u
+California|Otis College of Art & Design|u
+California|Pacific Oaks College|u
+California|Pacific School of Religion|u
+California|Pacific Union College|u
+California|Pacifica Graduate Institute|u
+California|Palo Alto University|u
+California|Pardee RAND Graduate School|u
+California|Patten University|u
+California|Pepperdine University|u
+California|Phillips Graduate Institute|u
+California|Point Loma Nazarene University|u
+California|Saint John's Seminary|u
+California|Saint Mary's College of California|u
+California|Saint Patrick's Seminary & University|u
+California|Samuel Merritt University|u
+California|San Diego Christian College|u
+California|San Francisco Art Institute|u
+California|San Francisco Conservatory of Music|u
+California|San Francisco Theological Seminary|u
+California|San Joaquin College of Law|u
+California|Santa Clara University|u
+California|Saybrook University|u
+California|Scripps Research Institute|u
+California|Simpson University|u
+California|Soka University of America|u
+California|Southern California College of Optometry|u
+California|Southern California Institute of Architecture|u
+California|Southern California University of Health Sciences|u
+California|Stanford University|u
+California|Thomas Aquinas College|u
+California|Touro College Los Angeles|u
+California|Touro University California|u
+California|Trident University International|u
+California|United States University|u
+California|University of California - Berkeley|u
+California|University of California - Davis|u
+California|University of California - Hastings College of the Law|u
+California|University of California - Irvine|u
+California|University of California - Los Angeles|u
+California|University of California - Merced|u
+California|University of California - Riverside|u
+California|University of California - San Diego|u
+California|University of California - San Francisco|u
+California|University of California - Santa Barbara|u
+California|University of California - Santa Cruz|u
+California|University of La Verne|u
+California|University of the Pacific|u
+California|University of Redlands|u
+California|University of San Diego|u
+California|University of San Francisco|u
+California|University of Southern California|u
+California|University of the West|u
+California|Vanguard University of Southern California|u
+California|Western State University College of Law|u
+California|Western University of Health Sciences|u
+California|Westminster Seminary California|u
+California|Westmont College|u
+California|Whittier College|u
+California|William Jessup University|u
+California|Woodbury University|u
+California|The Wright Institute|u
+Georgia|Agnes Scott College|u
+Georgia|Art Institute of Atlanta|u
+Georgia|Bauder College|u
+Georgia|Berry College|u
+Georgia|Beulah Heights University|u
+Georgia|Brenau University|u
+Georgia|Brewton-Parker College|u
+Georgia|Clark Atlanta University|u
+Georgia|Columbia Theological Seminary|u
+Georgia|Covenant College|u
+Georgia|DeVry University–Georgia|u
+Georgia|Emmanuel College|u
+Georgia|Emory University|u
+Georgia|Interdenominational Theological Center|u
+Georgia|LaGrange College|u
+Georgia|Life University|u
+Georgia|Mercer University|u
+Georgia|Morehouse College|u
+Georgia|Morehouse School of Medicine|u
+Georgia|Oglethorpe University|u
+Georgia|Paine College|u
+Georgia|Piedmont College|u
+Georgia|Point University|u
+Georgia|Reinhardt University|u
+Georgia|Richmont Graduate University|u
+Georgia|Savannah College of Art & Design|u
+Georgia|Shorter College|u
+Georgia|South University|u
+Georgia|Spelman College|u
+Georgia|Thomas University|u
+Georgia|Toccoa Falls College|u
+Georgia|Truett-McConnell College|u
+Georgia|Abraham Baldwin Agricultural College|u
+Georgia|Albany State University|u
+Georgia|Armstrong Atlantic State University|u
+Georgia|Augusta State University|u
+Georgia|Clayton State University|u
+Georgia|College of Coastal Georgia|u
+Georgia|Columbus State University|u
+Georgia|Dalton State College|u
+Georgia|Fort Valley State University|u
+Georgia|Gainesville State College|u
+Georgia|Georgia College & State University|u
+Georgia|Georgia Gwinnett College|u
+Georgia|Georgia Health Sciences University|u
+Georgia|Georgia Institute of Technology|u
+Georgia|Georgia Southern University|u
+Georgia|Georgia Southwestern State University|u
+Georgia|Georgia State University|u
+Georgia|Gordon College|u
+Georgia|Kennesaw State University|u
+Georgia|Macon State College|u
+Georgia|Middle Georgia College|u
+Georgia|North Georgia College & State University|u
+Georgia|Savannah State University|u
+Georgia|Southern Polytechnic State University|u
+Georgia|University of Georgia|u
+Georgia|University of West Georgia|u
+Georgia|Valdosta State University|u
+Georgia|Wesleyan College|u
+Georgia|Young Harris College|u
+Idaho|Boise State University|u
+Idaho|Brigham Young University–Idaho|u
+Idaho|The College of Idaho|u
+Idaho|Idaho State University|u
+Idaho|Lewis-Clark State College|u
+Idaho|Northwest Nazarene University|u
+Idaho|University of Idaho|u
+Indiana|Anderson University|u
+Indiana|Associated Mennonite Biblical Seminary|u
+Indiana|Ball State University|u
+Indiana|Bethany Theological Seminary|u
+Indiana|Bethel College|u
+Indiana|Butler University|u
+Indiana|Calumet College of Saint Joseph|u
+Indiana|Christian Theological Seminary|u
+Indiana|Concordia Theological Seminary|u
+Indiana|DePauw University|u
+Indiana|Earlham College|u
+Indiana|Franklin College|u
+Indiana|Goshen College|u
+Indiana|Grace College & Seminary|u
+Indiana|Hanover College|u
+Indiana|Holy Cross College|u
+Indiana|Huntington University|u
+Indiana|Indiana Institute of Technology|u
+Indiana|Indiana State University|u
+Indiana|Indiana University – Bloomington|u
+Indiana|Indiana University – East|u
+Indiana|Indiana University – Kokomo|u
+Indiana|Indiana University – Northwest|u
+Indiana|Indiana University – South Bend|u
+Indiana|Indiana University – Southeast|u
+Indiana|Indiana University - Purdue University at Columbus|u
+Indiana|Indiana University - Purdue University at Fort Wayne|u
+Indiana|Indiana University - Purdue University at Indianapolis|u
+Indiana|Indiana Wesleyan University|u
+Indiana|Manchester College|u
+Indiana|Marian University|u
+Indiana|Martin University|u
+Indiana|Oakland City University|u
+Indiana|Purdue University|u
+Indiana|Purdue University – Calumet|u
+Indiana|Purdue University – North Central|u
+Indiana|Purdue University - College of Technology–Anderson-Muncie|u
+Indiana|Purdue University - College of Technology–Columbus-Greensburg|u
+Indiana|Purdue University - College of Technology–Indianapolis|u
+Indiana|Purdue University - College of Technology–Kokomo|u
+Indiana|Purdue University - College of Technology–Lafayette|u
+Indiana|Purdue University - College of Technology–New Albany|u
+Indiana|Purdue University - College of Technology–Richmond|u
+Indiana|Purdue University - College of Technology–South Bend-Elkhart|u
+Indiana|Rose-Hulman Institute of Technology|u
+Indiana|Saint Joseph's College|u
+Indiana|Saint Mary-of-the-Woods College|u
+Indiana|Saint Mary's College|u
+Indiana|Saint Meinrad Seminary & School of Theology|u
+Indiana|Taylor University|u
+Indiana|TCM International Institute|u
+Indiana|Trine University|u
+Indiana|University of Evansville|u
+Indiana|University of Indianapolis|u
+Indiana|University of Notre Dame|u
+Indiana|University of Saint Francis|u
+Indiana|University of Southern Indiana|u
+Indiana|Valparaiso University|u
+Indiana|Vincennes University|u
+Indiana|Wabash College|u
+Indiana|Western Governors University–Indiana|u
+Iowa|AIB College of Business|u
+Iowa|Allen College|u
+Iowa|Ashford University|u
+Iowa|Briar Cliff University|u
+Iowa|Buena Vista University|u
+Iowa|Central College|u
+Iowa|Clarke University|u
+Iowa|Coe College|u
+Iowa|Cornell College|u
+Iowa|Des Moines University-Osteopathic Medical Center|u
+Iowa|Divine Word College|u
+Iowa|Dordt College|u
+Iowa|Drake University|u
+Iowa|Emmaus Bible College|u
+Iowa|Faith Baptist Bible College & Theological Seminary|u
+Iowa|Graceland University|u
+Iowa|Grand View University|u
+Iowa|Grinnell College|u
+Iowa|Iowa State University|u
+Iowa|Iowa Wesleyan College|u
+Iowa|Kaplan University|u
+Iowa|Loras College|u
+Iowa|Luther College|u
+Iowa|Maharishi University of Management|u
+Iowa|Mercy College of Health Sciences|u
+Iowa|Morningside College|u
+Iowa|Mount Mercy University|u
+Iowa|Northwestern College|u
+Iowa|Palmer College of Chiropractic|u
+Iowa|Saint Ambrose University|u
+Iowa|Simpson College|u
+Iowa|University of Dubuque|u
+Iowa|University of Iowa|u
+Iowa|University of Northern Iowa|u
+Iowa|Upper Iowa University|u
+Iowa|Waldorf College|u
+Iowa|Wartburg College|u
+Iowa|Wartburg Theological Seminary|u
+Iowa|William Penn University|u
+Kentucky|Alice Lloyd College|u
+Kentucky|Asbury Theological Seminary|u
+Kentucky|Asbury University|u
+Kentucky|Bellarmine University|u
+Kentucky|Berea College|u
+Kentucky|Brescia University|u
+Kentucky|Campbellsville University|u
+Kentucky|Centre College|u
+Kentucky|Clear Creek Baptist Bible College|u
+Kentucky|Eastern Kentucky University|u
+Kentucky|Frontier Nursing University|u
+Kentucky|Georgetown College|u
+Kentucky|Kentucky Christian University|u
+Kentucky|Kentucky Mountain Bible College|u
+Kentucky|Kentucky State University|u
+Kentucky|Kentucky Wesleyan College|u
+Kentucky|Lindsey Wilson College|u
+Kentucky|Louisville Presbyterian Theological Seminary|u
+Kentucky|Mid-Continent University|u
+Kentucky|Midway College|u
+Kentucky|Morehead State University|u
+Kentucky|Murray State University|u
+Kentucky|Northern Kentucky University|u
+Kentucky|Saint Catharine College|u
+Kentucky|Southern Baptist Theological Seminary|u
+Kentucky|Spalding University|u
+Kentucky|Sullivan University|u
+Kentucky|Thomas More College|u
+Kentucky|Transylvania University|u
+Kentucky|Union College|u
+Kentucky|University of Kentucky|u
+Kentucky|University of Louisville|u
+Kentucky|University of Pikeville|u
+Kentucky|University of the Cumberlands|u
+Kentucky|Western Kentucky University|u
+Maine|Bangor Theological Seminary|u
+Maine|Bates College|u
+Maine|Bowdoin College|u
+Maine|Colby College|u
+Maine|College of the Atlantic|u
+Maine|Husson University|u
+Maine|Maine College of Art|u
+Maine|Maine Maritime Academy|u
+Maine|Saint Joseph's College of Maine|u
+Maine|Thomas College|u
+Maine|Unity College|u
+Maine|University of Maine - Orono (main campus)|u
+Maine|University of Maine - Augusta|u
+Maine|University of Maine - Farmington|u
+Maine|University of Maine - Fort Kent|u
+Maine|University of Maine - Machias|u
+Maine|University of Maine - Presque Isle|u
+Maine|University of Maine - School of Law|u
+Maine|University of Southern Maine|u
+Maine|University of New England|u
+Massachusetts|American International College|u
+Massachusetts|Amherst College|u
+Massachusetts|Andover Newton Theological School|u
+Massachusetts|Anna Maria College|u
+Massachusetts|Assumption College|u
+Massachusetts|Atlantic Union College|u
+Massachusetts|Babson College|u
+Massachusetts|Bard College at Simon's Rock|u
+Massachusetts|Bay Path College|u
+Massachusetts|Bay State College|u
+Massachusetts|Becker College|u
+Massachusetts|Benjamin Franklin Institute of Technology|u
+Massachusetts|Bentley University|u
+Massachusetts|Berklee College of Music|u
+Massachusetts|Boston Architectural College|u
+Massachusetts|Boston College|u
+Massachusetts|Boston Conservatory|u
+Massachusetts|Boston Graduate School of Psychoanalysis|u
+Massachusetts|Boston University|u
+Massachusetts|Brandeis University|u
+Massachusetts|Cambridge College|u
+Massachusetts|Clark University|u
+Massachusetts|College of the Holy Cross|u
+Massachusetts|Conway School of Landscape Design|u
+Massachusetts|Curry College|u
+Massachusetts|Dean College|u
+Massachusetts|Eastern Nazarene College|u
+Massachusetts|Elms College|u
+Massachusetts|Emerson College|u
+Massachusetts|Emmanuel College|u
+Massachusetts|Endicott College|u
+Massachusetts|Fisher College|u
+Massachusetts|Franklin W. Olin College of Engineering|u
+Massachusetts|Gordon College|u
+Massachusetts|Gordon-Conwell Theological Seminary|u
+Massachusetts|Hampshire College|u
+Massachusetts|Harvard University|u
+Massachusetts|Hebrew College|u
+Massachusetts|Hellenic College/Holy Cross Greek Orthodox School of Theology|u
+Massachusetts|Hult International Business School|u
+Massachusetts|Labouré College|u
+Massachusetts|Lasell College|u
+Massachusetts|Lesley University|u
+Massachusetts|Longy School of Music|u
+Massachusetts|Massachuetts College of Pharmacy & Health Sciences|u
+Massachusetts|Massachusetts Institute of Technology|u
+Massachusetts|Massachusetts School of Law|u
+Massachusetts|Massachusetts School of Professional Psychology|u
+Massachusetts|Bridgewater State University|u
+Massachusetts|Fitchburg State University|u
+Massachusetts|Framingham State University|u
+Massachusetts|Massachusetts College of Art & Design|u
+Massachusetts|Massachusetts College of Liberal Arts|u
+Massachusetts|Massachusetts Maritime Academy|u
+Massachusetts|Salem State University|u
+Massachusetts|Westfield State University|u
+Massachusetts|Worcester State University|u
+Massachusetts|Merrimack College|u
+Massachusetts|MGH Institute of Health Professions|u
+Massachusetts|Montserrat College of Art|u
+Massachusetts|Mount Holyoke College|u
+Massachusetts|Mount Ida College|u
+Massachusetts|National Graduate School of Quality Management|u
+Massachusetts|New England College of Business & Finance|u
+Massachusetts|New England College of Optometry|u
+Massachusetts|New England Conservatory of Music|u
+Massachusetts|New England Institute of Art|u
+Massachusetts|Newbury College|u
+Massachusetts|Nichols College|u
+Massachusetts|Northeastern University|u
+Massachusetts|Pine Manor College|u
+Massachusetts|Regis College|u
+Massachusetts|Saint John's Seminary|u
+Massachusetts|Simmons College|u
+Massachusetts|Smith College|u
+Massachusetts|Springfield College|u
+Massachusetts|Stonehill College|u
+Massachusetts|Suffolk University|u
+Massachusetts|Tufts University|u
+Massachusetts|University of Massachusetts - Amherst|u
+Massachusetts|University of Massachusetts - Boston|u
+Massachusetts|University of Massachusetts - Dartmouth|u
+Massachusetts|University of Massachusetts - Lowell|u
+Massachusetts|University of Massachusetts - Medical School at Worcester|u
+Massachusetts|Wellesley College|u
+Massachusetts|Wentworth Institute of Technology|u
+Massachusetts|Western New England University|u
+Massachusetts|Wheaton College|u
+Massachusetts|Wheelock College|u
+Massachusetts|Williams College|u
+Massachusetts|Woods Hole Oceanographic Institution|u
+Massachusetts|Worcester Polytechnic Institute|u
+Mississippi|Alcorn State University|u
+Mississippi|Belhaven University|u
+Mississippi|Blue Mountain College|u
+Mississippi|Delta State University|u
+Mississippi|Jackson State University|u
+Mississippi|Millsaps College|u
+Mississippi|Mississippi College|u
+Mississippi|Mississippi State University|u
+Mississippi|Mississippi University for Women|u
+Mississippi|Mississippi Valley State University|u
+Mississippi|Reformed Theological Seminary|u
+Mississippi|Rust College|u
+Mississippi|Tougaloo College|u
+Mississippi|University of Mississippi|u
+Mississippi|University of Mississippi Medical Center|u
+Mississippi|University of Southern Mississippi|u
+Mississippi|William Carey University|u
+Missouri|A.T. Still University of Health Sciences|u
+Missouri|Aquinas Institute of Theology|u
+Missouri|Assemblies of God Theological Seminary|u
+Missouri|Avila University|u
+Missouri|Baptist Bible College|u
+Missouri|Calvary Bible College & Theological Seminary|u
+Missouri|Central Bible College|u
+Missouri|Central Christian College of the Bible|u
+Missouri|Central Methodist University|u
+Missouri|College of the Ozarks|u
+Missouri|Columbia College|u
+Missouri|Conception Seminary College|u
+Missouri|Concordia Seminary–Saint Louis|u
+Missouri|Covenant Theological Seminary|u
+Missouri|Cox College|u
+Missouri|Culver-Stockton College|u
+Missouri|DeVry University–Kansas City|u
+Missouri|Drury University|u
+Missouri|Eden Theological Seminary|u
+Missouri|Evangel University|u
+Missouri|Fontbonne University|u
+Missouri|Forest Institute of Professional Psychology|u
+Missouri|Global University|u
+Missouri|Goldfarb School of Nursing at Barnes-Jewish College|u
+Missouri|Hannibal-Lagrange College|u
+Missouri|Harris-Stowe State University|u
+Missouri|Kansas City Art Institute|u
+Missouri|Kansas City University of Medicine & Biosciences|u
+Missouri|Kenrick-Glennon Seminary|u
+Missouri|Lincoln University|u
+Missouri|Lindenwood University|u
+Missouri|Logan University|u
+Missouri|Maryville University of Saint Louis|u
+Missouri|Midwestern Baptist Theological Seminary|u
+Missouri|Missouri Baptist University|u
+Missouri|Missouri Southern State University|u
+Missouri|Missouri State University|u
+Missouri|Missouri Valley College|u
+Missouri|Missouri Western State University|u
+Missouri|Northwest Missouri State University|u
+Missouri|Ozark Christian College|u
+Missouri|Park University|u
+Missouri|Ranken Technical College|u
+Missouri|Research College of Nursing|u
+Missouri|Rockhurst University|u
+Missouri|Saint Louis College of Pharmacy|u
+Missouri|Saint Louis University|u
+Missouri|Saint Luke's College of Health Sciences|u
+Missouri|Saint Paul School of Theology|u
+Missouri|Southeast Missouri State University|u
+Missouri|Southwest Baptist University|u
+Missouri|Stephens College|u
+Missouri|Truman State University|u
+Missouri|University of Central Missouri|u
+Missouri|University of Missouri - Columbia|u
+Missouri|University of Missouri - Kansas City|u
+Missouri|University of Missouri - Saint Louis|u
+Missouri|Missouri University of Science & Technology|u
+Missouri|Washington University in Saint Louis|u
+Missouri|Webster University|u
+Missouri|Westminster College|u
+Missouri|William Jewell College|u
+Missouri|William Woods University|u
+Nevada|College of Southern Nevada|u
+Nevada|Great Basin College|u
+Nevada|Roseman University of Health Sciences|u
+Nevada|Sierra Nevada College|u
+Nevada|University of Nevada–Las Vegas|u
+Nevada|University of Nevada–Reno|u
+Nevada|Western Nevada College|u
+New Jersey|Berkeley College|u
+New Jersey|Bloomfield College|u
+New Jersey|Caldwell College|u
+New Jersey|Centenary College|u
+New Jersey|The College of New Jersey|u
+New Jersey|College of Saint Elizabeth|u
+New Jersey|Drew University|u
+New Jersey|Fairleigh Dickinson University|u
+New Jersey|Felician College|u
+New Jersey|Georgian Court University|u
+New Jersey|Kean University|u
+New Jersey|Monmouth University|u
+New Jersey|Montclair State University|u
+New Jersey|New Jersey City University|u
+New Jersey|New Jersey Institute of Technology|u
+New Jersey|Princeton Theological Seminary|u
+New Jersey|Princeton University|u
+New Jersey|Ramapo College of New Jersey|u
+New Jersey|Richard Stockton College of New Jersey|u
+New Jersey|Rider University|u
+New Jersey|Rowan University|u
+New Jersey|Rutgers, the State University of New Jersey|u
+New Jersey|Rutgers - Camden|u
+New Jersey|Rutgers - New Brunswick|u
+New Jersey|Rutgers - Newark|u
+New Jersey|Saint Peter's College|u
+New Jersey|Seton Hall University|u
+New Jersey|Somerset Christian College|u
+New Jersey|Stevens Institute of Technology|u
+New Jersey|Thomas Edison State College|u
+New Jersey|University of Medicine & Dentistry of New Jersey|u
+New Jersey|William Paterson University|u
+New York|Adelphi University|u
+New York|Albany College of Pharmacy & Health Sciences|u
+New York|Albany Medical College|u
+New York|Alfred University|u
+New York|Bank Street College of Education|u
+New York|Bard College|u
+New York|Barnard College|u
+New York|Boricua College|u
+New York|Briarcliffe College|u
+New York|Canisius College|u
+New York|Cazenovia College|u
+New York|Christ the King Seminary|u
+New York|Baruch College|u
+New York|Brooklyn College|u
+New York|City College|u
+New York|College of Staten Island|u
+New York|Graduate School & University Center|u
+New York|Hunter College|u
+New York|John Jay College of Criminal Justice|u
+New York|Lehman College|u
+New York|Medgar Evers College|u
+New York|New York City College of Technology|u
+New York|Queens College|u
+New York|York College|u
+New York|Clarkson University|u
+New York|Colgate University|u
+New York|College of Mount Saint Vincent|u
+New York|College of New Rochelle|u
+New York|College of Saint Rose|u
+New York|Columbia University|u
+New York|Concordia College–Bronxville|u
+New York|The Cooper Union for the Advancement of Science & Art|u
+New York|Cornell University|u
+New York|Culinary Institute of America|u
+New York|Daemen College|u
+New York|Davis College|u
+New York|Dominican College|u
+New York|Dowling College|u
+New York|D´Youville College|u
+New York|Elmira College|u
+New York|Excelsior College|u
+New York|Five Towns College|u
+New York|Fordham University|u
+New York|Hamilton College|u
+New York|Hartwick College|u
+New York|Hebrew Union College-Jewish Institute of Religion|u
+New York|Hilbert College|u
+New York|Hobart & William Smith Colleges|u
+New York|Hofstra University|u
+New York|Houghton College|u
+New York|Iona College|u
+New York|Ithaca College|u
+New York|The Jewish Theological Seminary of America|u
+New York|The Juilliard School|u
+New York|Keuka College|u
+New York|The King's College|u
+New York|Le Moyne College|u
+New York|LIM College|u
+New York|Long Island University - Arnold & Marie Schwartz College of Pharmacy & Health Sciences|u
+New York|Long Island University - Brentwood|u
+New York|Long Island University - Brooklyn|u
+New York|Long Island University - C.W. Post|u
+New York|Long Island University - Riverhead|u
+New York|Long Island University - Rockland Graduate|u
+New York|Long Island University - Westchester Graduate|u
+New York|Manhattan College|u
+New York|Manhattan School of Music|u
+New York|Manhattanville College|u
+New York|Marist College|u
+New York|Marymount Manhattan College|u
+New York|Medaille College|u
+New York|Mercy College|u
+New York|Metropolitan College of New York|u
+New York|Molloy College|u
+New York|Monroe College|u
+New York|Mount Saint Mary College|u
+New York|Mount Sinai School of Medicine|u
+New York|Nazareth College|u
+New York|The New School|u
+New York|New York Chiropractic College|u
+New York|New York Institute of Technology|u
+New York|New York Medical College|u
+New York|New York University|u
+New York|Polytechnic Institute of New York University|u
+New York|Niagara University|u
+New York|Nyack College|u
+New York|Pace University|u
+New York|Paul Smith's College|u
+New York|Pratt Institute|u
+New York|Rensselaer Polytechnic Institute|u
+New York|Roberts Wesleyan College|u
+New York|Northeastern Seminary at Roberts Wesleyan College|u
+New York|Rochester Institute of Technology|u
+New York|The Sage Colleges|u
+New York|Saint Bonaventure University|u
+New York|Saint Francis College|u
+New York|Saint John Fisher College|u
+New York|Saint John's University|u
+New York|Saint Joseph's College|u
+New York|Saint Joseph's Seminary|u
+New York|Saint Lawrence University|u
+New York|Saint Thomas Aquinas College|u
+New York|Sarah Lawrence College|u
+New York|School of Visual Arts|u
+New York|Seminary of the Immaculate Conception|u
+New York|Siena College|u
+New York|Skidmore College|u
+New York|University at Albany|u
+New York|Alfred State University|u
+New York|Binghamton University|u
+New York|University at Buffalo|u
+New York|Buffalo State College|u
+New York|Stony Brook University|u
+New York|College at Brockport|u
+New York|College at Cortland|u
+New York|College at Fredonia|u
+New York|College at Geneseo|u
+New York|College at New Paltz|u
+New York|College at Old Westbury|u
+New York|College at Oneonta|u
+New York|College at Oswego|u
+New York|College at Plattsburgh|u
+New York|College at Potsdam|u
+New York|College at Purchase|u
+New York|College of Agriculture & Technology at Cobleskill|u
+New York|College of Agriculture & Technology at Morrisville (Morrisville State College)|u
+New York|College of Environmental Science & Forestry|u
+New York|College of Optometry|u
+New York|College of Technology at Canton|u
+New York|College of Technology at Delhi|u
+New York|Downstate Medical Center|u
+New York|Empire State College|u
+New York|Farmingdale State College|u
+New York|Fashion Institute of Technology|u
+New York|Institute of Technology at Utica/Rome|u
+New York|Maritime College at Fort Schuyler|u
+New York|Upstate Medical University|u
+New York|Syracuse University|u
+New York|Teachers College, Columbia University|u
+New York|Touro College|u
+New York|Unification Theological Seminary|u
+New York|Union College|u
+New York|Union Graduate College|u
+New York|Union Theological Seminary|u
+New York|United States Merchant Marine Academy|u
+New York|United States Military Academy|u
+New York|University of Rochester|u
+New York|Utica College|u
+New York|Vassar College|u
+New York|Vaughn College of Aeronautics & Technology|u
+New York|Villa Maria College of Buffalo|u
+New York|Wagner College|u
+New York|Webb Institute|u
+New York|Wells College|u
+New York|Yeshiva University|u
+Oklahoma|Bacone College|u
+Oklahoma|Cameron University|u
+Oklahoma|East Central University|u
+Oklahoma|Langston University|u
+Oklahoma|Mid-America Christian University|u
+Oklahoma|Northeastern State University - Broken Arrow|u
+Oklahoma|Northeastern State University - Muskogee|u
+Oklahoma|Northwestern Oklahoma State University|u
+Oklahoma|Oklahoma Baptist University|u
+Oklahoma|Oklahoma Christian University|u
+Oklahoma|Oklahoma City University|u
+Oklahoma|Oklahoma Panhandle State University|u
+Oklahoma|Oklahoma State University - Center for Health Sciences|u
+Oklahoma|Oklahoma State University - Institute of Technology|u
+Oklahoma|Oklahoma State University - Oklahoma City|u
+Oklahoma|Oklahoma State University - Stillwater|u
+Oklahoma|Oklahoma State University - Tulsa|u
+Oklahoma|Oklahoma Wesleyan University|u
+Oklahoma|Oral Roberts University|u
+Oklahoma|Phillips Theological Seminary|u
+Oklahoma|Rogers State University|u
+Oklahoma|Saint Gregory's University|u
+Oklahoma|Southeastern Oklahoma State University|u
+Oklahoma|Southern Nazarene University|u
+Oklahoma|Southwestern Christian University|u
+Oklahoma|Southwestern Oklahoma State University|u
+Oklahoma|University of Central Oklahoma|u
+Oklahoma|University of Oklahoma|u
+Oklahoma|University of Oklahoma Health Sciences Center|u
+Oklahoma|University of Oklahoma–Tulsa|u
+Oklahoma|University of Science & Arts of Oklahoma|u
+Oklahoma|University of Tulsa|u
+Pennsylvania|Albright College|u
+Pennsylvania|Allegheny College|u
+Pennsylvania|Alvernia University|u
+Pennsylvania|American College|u
+Pennsylvania|Arcadia University|u
+Pennsylvania|Art Institute of Pittsburgh|u
+Pennsylvania|Baptist Bible College & Seminary|u
+Pennsylvania|Biblical Theological Seminary|u
+Pennsylvania|Bryn Athyn College of the New Church|u
+Pennsylvania|Bryn Mawr College|u
+Pennsylvania|Bucknell University|u
+Pennsylvania|Cabrini College|u
+Pennsylvania|Calvary Baptist Seminary|u
+Pennsylvania|Carlow University|u
+Pennsylvania|Carnegie Mellon University|u
+Pennsylvania|Cedar Crest College|u
+Pennsylvania|Central Penn College|u
+Pennsylvania|Chatham College|u
+Pennsylvania|Chestnut Hill College|u
+Pennsylvania|Curtis Institute of Music|u
+Pennsylvania|Delaware Valley College|u
+Pennsylvania|DeSales University|u
+Pennsylvania|Dickinson College|u
+Pennsylvania|Drexel University|u
+Pennsylvania|Duquesne University|u
+Pennsylvania|Eastern University|u
+Pennsylvania|Elizabethtown College|u
+Pennsylvania|Evangelical Theological Seminary|u
+Pennsylvania|Franklin & Marshall College|u
+Pennsylvania|Gannon University|u
+Pennsylvania|Geneva College|u
+Pennsylvania|Gettysburg College|u
+Pennsylvania|Gratz College|u
+Pennsylvania|Grove City College|u
+Pennsylvania|Gwynedd Mercy College|u
+Pennsylvania|Harrisburg University of Science & Technology|u
+Pennsylvania|Haverford College|u
+Pennsylvania|Holy Family University|u
+Pennsylvania|Immaculata University|u
+Pennsylvania|Juniata College|u
+Pennsylvania|Keystone College|u
+Pennsylvania|King's College|u
+Pennsylvania|La Roche College|u
+Pennsylvania|La Salle University|u
+Pennsylvania|Lafayette College|u
+Pennsylvania|Lake Erie College of Osteopathic Medicine|u
+Pennsylvania|Lancaster Bible College|u
+Pennsylvania|Lancaster General College of Nursing & Health|u
+Pennsylvania|Lancaster Theological Seminary|u
+Pennsylvania|Lebanon Valley College|u
+Pennsylvania|Lehigh University|u
+Pennsylvania|Lincoln University|u
+Pennsylvania|Lutheran Theological Seminary at Gettysburg|u
+Pennsylvania|Lutheran Theological Seminary at Philadelphia|u
+Pennsylvania|Lycoming College|u
+Pennsylvania|Marywood University|u
+Pennsylvania|Mercyhurst College|u
+Pennsylvania|Messiah College|u
+Pennsylvania|Misericordia University|u
+Pennsylvania|Moore College of Art & Design|u
+Pennsylvania|Moravian College|u
+Pennsylvania|Mount Aloysius College|u
+Pennsylvania|Muhlenberg College|u
+Pennsylvania|Neumann University|u
+Pennsylvania|Peirce College|u
+Pennsylvania|Pennsylvania College of Art & Design|u
+Pennsylvania|Bloomsburg University of Pennsylvania|u
+Pennsylvania|California University of Pennsylvania|u
+Pennsylvania|Cheyney University of Pennsylvania|u
+Pennsylvania|Clarion University of Pennsylvania|u
+Pennsylvania|East Stroudsburg University of Pennsylvania|u
+Pennsylvania|Edinboro University of Pennsylvania|u
+Pennsylvania|Indiana University of Pennsylvania|u
+Pennsylvania|Kutztown University of Pennsylvania|u
+Pennsylvania|Lock Haven University of Pennsylvania|u
+Pennsylvania|Mansfield University of Pennsylvania|u
+Pennsylvania|Millersville University of Pennsylvania|u
+Pennsylvania|Shippensburg University of Pennsylvania|u
+Pennsylvania|Slippery Rock University of Pennsylvania|u
+Pennsylvania|West Chester University of Pennsylvania|u
+Pennsylvania|Pennsylvania State University - University Park (main campus)|u
+Pennsylvania|Pennsylvania State University - Abington|u
+Pennsylvania|Pennsylvania State University - Altoona|u
+Pennsylvania|Pennsylvania State University - Beaver|u
+Pennsylvania|Pennsylvania State University - Berks|u
+Pennsylvania|Pennsylvania State University - Brandywine|u
+Pennsylvania|Pennsylvania State University - Dickinson School of Law|u
+Pennsylvania|Pennsylvania State University - DuBois|u
+Pennsylvania|Pennsylvania State University - Erie, The Behrend College|u
+Pennsylvania|Pennsylvania State University - Fayette, The Eberly Campus|u
+Pennsylvania|Pennsylvania State University - Great Valley School of Graduate Professional Studies|u
+Pennsylvania|Pennsylvania State University - Greater Allegheny|u
+Pennsylvania|Pennsylvania State University - Harrisburg|u
+Pennsylvania|Pennsylvania State University - Hazleton|u
+Pennsylvania|Pennsylvania State University - Lehigh Valley|u
+Pennsylvania|Pennsylvania State University - Milton S. Hershey Medical Center|u
+Pennsylvania|Pennsylvania State University - Mont Alto|u
+Pennsylvania|Pennsylvania State University - New Kensington|u
+Pennsylvania|Pennsylvania State University - Pennsylvania College of Technology|u
+Pennsylvania|Pennsylvania State University - Schuylkill|u
+Pennsylvania|Pennsylvania State University - Shenango|u
+Pennsylvania|Pennsylvania State University - Wilkes-Barre|u
+Pennsylvania|Pennsylvania State University - Worthington Scranton|u
+Pennsylvania|Pennsylvania State University - York|u
+Pennsylvania|Philadelphia Biblical University|u
+Pennsylvania|Philadelphia College of Osteopathic Medicine|u
+Pennsylvania|Philadelphia University|u
+Pennsylvania|Pittsburgh Theological Seminary|u
+Pennsylvania|Point Park University|u
+Pennsylvania|Reconstructionist Rabbinical College|u
+Pennsylvania|Robert Morris University|u
+Pennsylvania|Rosemont College|u
+Pennsylvania|Saint Charles Borromeo Seminary|u
+Pennsylvania|Saint Francis University|u
+Pennsylvania|Saint Joseph's University|u
+Pennsylvania|Saint Vincent College|u
+Pennsylvania|Salus University|u
+Pennsylvania|Seton Hill University|u
+Pennsylvania|Susquehanna University|u
+Pennsylvania|Swarthmore College|u
+Pennsylvania|Temple University|u
+Pennsylvania|Thiel College|u
+Pennsylvania|Thomas Jefferson University|u
+Pennsylvania|United States Army War College|u
+Pennsylvania|University of Pennsylvania|u
+Pennsylvania|University of Pittsburgh - Bradford|u
+Pennsylvania|University of Pittsburgh - Greensburg|u
+Pennsylvania|University of Pittsburgh - Johnstown|u
+Pennsylvania|University of Scranton|u
+Pennsylvania|University of the Arts|u
+Pennsylvania|University of the Sciences in Philadelphia|u
+Pennsylvania|Ursinus College|u
+Pennsylvania|Valley Forge Christian College|u
+Pennsylvania|Villanova University|u
+Pennsylvania|Washington & Jefferson College|u
+Pennsylvania|Waynesburg University|u
+Pennsylvania|Westminster College|u
+Pennsylvania|Westminster Theological Seminary|u
+Pennsylvania|Widener University|u
+Pennsylvania|Wilkes University|u
+Pennsylvania|Wilson College|u
+Pennsylvania|Won Institute of Graduate Studies|u
+Pennsylvania|York College of Pennsylvania|u
+Texas|Abilene Christian University|u
+Texas|Academy of Oriental Medicine at Austin|u
+Texas|Amberton University|u
+Texas|Arlington Baptist College|u
+Texas|Art Institute of Dallas|u
+Texas|Art Institute of Houston|u
+Texas|Austin College|u
+Texas|Austin Graduate School of Theology|u
+Texas|Austin Presbyterian Theological Seminary|u
+Texas|Baptist Missionary Association Theological Seminary|u
+Texas|Baylor College of Medicine|u
+Texas|Baylor University|u
+Texas|College of Saint Thomas More|u
+Texas|Concordia University–Texas|u
+Texas|Criswell College|u
+Texas|Dallas Baptist University|u
+Texas|Dallas Christian College|u
+Texas|Dallas Theological Seminary|u
+Texas|DeVry University–Irving (Dallas)|u
+Texas|East Texas Baptist University|u
+Texas|Graduate Institute of Applied Linguistics|u
+Texas|Hardin-Simmons University|u
+Texas|Houston Baptist University|u
+Texas|Howard Payne University|u
+Texas|Huston-Tillotson University|u
+Texas|Jarvis Christian College|u
+Texas|LeTourneau University|u
+Texas|Lubbock Christian University|u
+Texas|McMurry University|u
+Texas|Midwestern State University|u
+Texas|Northwood University|u
+Texas|Oblate School of Theology|u
+Texas|Our Lady of the Lake University|u
+Texas|Parker University|u
+Texas|Paul Quinn College|u
+Texas|Rice University|u
+Texas|Saint Edward's University|u
+Texas|Saint Mary's University|u
+Texas|Schreiner University|u
+Texas|Seminary of the Southwest|u
+Texas|Southern Methodist University|u
+Texas|South Texas College of Law|u
+Texas|Southwestern Adventist University|u
+Texas|Southwestern Assemblies of God University|u
+Texas|Southwestern Baptist Theological Seminary|u
+Texas|Southwestern Christian College|u
+Texas|Southwestern University|u
+Texas|Stephen F. Austin State University|u
+Texas|Texas A&M University - College Station|u
+Texas|Texas A&M University - Commerce|u
+Texas|Texas A&M University - Corpus Christi|u
+Texas|Texas A&M University - Galveston|u
+Texas|Texas A&M University - Health Science Center|u
+Texas|Texas A&M University - Kingsville|u
+Texas|Texas A&M University - Prairie View A&M University|u
+Texas|Texas A&M University - Tarleton State University|u
+Texas|Texas A&M University - Texarkana|u
+Texas|Texas A&M University - Texas A&M International University|u
+Texas|Texas A&M University - West Texas A&M University|u
+Texas|Texas Chiropractic College|u
+Texas|Texas Christian University|u
+Texas|Texas College|u
+Texas|Texas Lutheran University|u
+Texas|Texas Southern University|u
+Texas|Lamar University|u
+Texas|Sam Houston State University|u
+Texas|Sul Ross State University|u
+Texas|Texas State University–San Marcos|u
+Texas|Angelo State University|u
+Texas|Health Sciences Center|u
+Texas|Texas Tech University|u
+Texas|Texas Wesleyan University|u
+Texas|Texas Woman's University|u
+Texas|Trinity University|u
+Texas|University of Dallas|u
+Texas|University of Houston - Main|u
+Texas|University of Houston - Clear Lake|u
+Texas|University of Houston - Downtown|u
+Texas|University of Houston - Victoria|u
+Texas|University of Mary Hardin-Baylor|u
+Texas|University of North Texas|u
+Texas|University of North Texas - Health Science Center|u
+Texas|University of Saint Thomas|u
+Texas|University of Texas - Arlington|u
+Texas|University of Texas - Austin|u
+Texas|University of Texas - Brownsville|u
+Texas|University of Texas - Dallas|u
+Texas|University of Texas - El Paso|u
+Texas|University of Texas - Pan American|u
+Texas|University of Texas - Permian Basin|u
+Texas|University of Texas - San Antonio|u
+Texas|University of Texas - Tyler|u
+Texas|University of Texas - Health Science Center at Houston|u
+Texas|University of Texas - Health Science Center at San Antonio|u
+Texas|University of Texas - Health Science Center at Tyler|u
+Texas|University of Texas - M.D. Anderson Cancer Center|u
+Texas|University of Texas - Medical Branch at Galveston|u
+Texas|University of Texas - Southwestern Medical Center at Dallas|u
+Texas|University of the Incarnate Word|u
+Texas|Wade College|u
+Texas|Wayland Baptist University|u
+Texas|Wiley College|u
+West Virginia|Alderson-Broaddus College|u
+West Virginia|American Military University|u
+West Virginia|American Public University|u
+West Virginia|Appalachian Bible College|u
+West Virginia|Bethany College|u
+West Virginia|Bluefield State College|u
+West Virginia|Concord University|u
+West Virginia|Davis & Elkins College|u
+West Virginia|Fairmont State University|u
+West Virginia|Future Generations Graduate School|u
+West Virginia|Glenville State College|u
+West Virginia|Marshall University|u
+West Virginia|Mountain State University|u
+West Virginia|Ohio Valley University|u
+West Virginia|Salem International University|u
+West Virginia|Shepherd University|u
+West Virginia|University of Charleston|u
+West Virginia|West Liberty University|u
+West Virginia|West Virginia State University|u
+West Virginia|West Virginia University|u
+West Virginia|West Virginia University Institute of Technology|u
+West Virginia|West Virginia University at Parkersburg|u
+West Virginia|West Virginia Wesleyan College|u
+West Virginia|Wheeling Jesuit University|u
+Wyoming|University of Wyoming|u
+Guam|University of Guam|u
+Puerto Rico|American University of Puerto Rico|u
+Puerto Rico|Caribbean University|u
+Puerto Rico|Carlos Albizu University|u
+Puerto Rico|Centro de Estudios Avanzados de Puerto Rico y el Caribe|u
+Puerto Rico|Colegio Universitario de San Juan|u
+Puerto Rico|Columbia Centro Universitario|u
+Puerto Rico|Conservatorio de Música de Puerto Rico|u
+Puerto Rico|Escuela de Artes Plásticas de Puerto Rico|u
+Puerto Rico|EDP College|u
+Puerto Rico|Ponce School of Medicine & Health Sciences|u
+Puerto Rico|Pontificia Universidad Católica de Puerto Rico|u
+Puerto Rico|San Juan Bautista School of Medicine|u
+Puerto Rico|Seminario Evangélico de Puerto Rico|u
+Puerto Rico|Universidad del Este|u
+Puerto Rico|Universidad Metropolitana|u
+Puerto Rico|Universidad del Turabo|u
+Puerto Rico|Universidad Adventista de las Antillas|u
+Puerto Rico|Universidad Central de Bayamón|u
+Puerto Rico|Universidad Central del Caribe|u
+Puerto Rico|Universidad del Sagrado Corazón|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - Aguadilla|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - Arecibo|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - Barranquitas|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - Fajardo|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - Guayama|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - Metropolitan|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - Ponce|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - San Germán|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - School of Law|u
+Puerto Rico|Universidad Interamericana de Puerto Rico - School of Optometry|u
+Puerto Rico|Universidad Politecnica de Puerto Rico|u
+Puerto Rico|University of Puerto Rico - Aguadilla|u
+Puerto Rico|University of Puerto Rico - Arecibo|u
+Puerto Rico|University of Puerto Rico - Bayamón|u
+Puerto Rico|University of Puerto Rico - Carolina|u
+Puerto Rico|University of Puerto Rico - Cayey|u
+Puerto Rico|University of Puerto Rico - Ciencias Médicas|u
+Puerto Rico|University of Puerto Rico - Humacao|u
+Puerto Rico|University of Puerto Rico - Mayagüez|u
+Puerto Rico|University of Puerto Rico - Ponce|u
+Puerto Rico|University of Puerto Rico - Río Piedras|u
+Puerto Rico|University of Puerto Rico - Utuado|u

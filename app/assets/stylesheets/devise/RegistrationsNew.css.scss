@@ -1,0 +1,28 @@
+
+#content-wrapper
+{
+	padding-top: 30px;
+	padding-left: 300px;
+
+	#content-title
+	{
+		padding: 5px 0px 5px 25px;
+		color: #f9f9f9;
+		width: 400px;
+		background: url(../WelcomePage/TitleBarSlice.png) repeat-x;
+	}
+
+	#content-form
+	{
+		border: dotted 1px;
+		border-top: none;
+		padding: 5px 0px 5px 23px;
+		width: 400px;
+		background-color: #f5f5f5; //#f1f1f1;
+	}
+}
+
+#loginBtn
+{
+	padding-bottom: 5px;
+}

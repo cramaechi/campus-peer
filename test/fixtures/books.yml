@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  title: "Introduction To Geography"
+  author: "Arthur Getis,Judith Getis,Jerome Fellmann"
+  publisher: "McGraw-Hill Science/Engineering/Math"
+  isbn10: "0073522821"
+  isbn13: "9780073522821"
+  pricenew: 32.34
+  priceused: 23.45
+
+two:
+  id: 2
+  title: "Exploring Python"
+  author: :Timothy Budd"
+  publisher: "McGraw-Hill Science/Engineering/Math"
+  isbn10: "0073523372"
+  isbn13: "9780073523378"
+  pricenew: 36.34
+  priceused: 15.45

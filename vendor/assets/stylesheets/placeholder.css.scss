@@ -1,0 +1,57 @@
+.input {
+	display: block;
+}
+.input span {
+	position: absolute;
+	padding: 5px;
+	margin-left: 3px;
+	color: #999;
+	z-index: 1;
+	cursor: text;
+}
+
+.input2
+{
+	display:block;
+}
+
+.input2 span
+{
+	position:absolute;
+	margin-left:36px;
+	margin-top:12px;
+	color:#999;
+	z-index:-10px;
+	font-size:19px;
+	cursor:text;
+}
+
+.input3
+{
+	display:block;
+}
+
+.input3 span
+{
+	position:absolute;
+	margin-left:50px;
+	margin-top:17px;
+	color:#999;
+	z-index:-10px;
+	font-size:19px;
+	cursor:text;
+}
+
+.input input, .input textarea, .input select {
+	z-index: 0;
+	//padding: 6px;
+	margin: 0;
+	font: inherit;
+}
+
+/* Hack to remove Safari's extra padding. Remove if you don't care about pixel-perfection. */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+		.input input, .input textarea, .input select { padding: 4px; }
+}
+*/

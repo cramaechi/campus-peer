@@ -1,0 +1,296 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$WrapperWidth: 1000px;
+
+* 
+{
+	margin: 0;
+	padding: 0;
+}
+
+html, body 
+{
+	height: 100%; 
+	background-color:#fdfdfd;
+    font-family: "Arial";
+	color: #5d5d5d;
+	font-size: 13px;
+
+	a{color: #5d5d5d}
+
+	a:link {text-decoration: none}
+	a:active {text-decoration: none}
+	a:hover {text-decoration: underline;}
+	a:visited{text-decoration: none;}
+}
+
+#container 
+{
+	min-height: 100%;
+	margin: 0 auto;
+}
+
+#container:before 
+{ /* Opera and IE8 "redraw" bug fix */
+	content:"";
+	float:left;
+	height:100%;
+	margin-top:-999em;
+}
+
+* html #container 
+{ /* IE6 workaround */
+	height:100%; 
+}
+
+.wrapper
+{
+	margin: 0px auto;
+	height: 100%;
+	width: $WrapperWidth;
+}
+
+#header
+{
+  	background: url(WelcomePage/Header_BG_Slice.png) repeat-x;
+  	height:78px;
+
+	#logo-text
+	{
+		padding: 24px 0px 0px 10px;
+		float: left;
+	}
+
+	#signin
+	{
+		float: right;
+		padding: 12px 0px 0px 0px;
+	}	
+}
+
+#content
+{
+	padding: 50px 0px 0px 0px;
+	padding-bottom: 49px;	// Size of footer
+	//position:relative;
+
+	#left
+	{
+		float: left;
+		padding: 0px 30px 0px 0px;
+		border-right: 1px solid #c0c0c0;
+		height:370px;
+		width:480px;
+        
+        #message
+        {
+        
+            font-size:19px;
+            font-family:arial;
+            font-weight:normal;
+            color:#858585;
+            margin-bottom:20px;
+        }
+
+        #puzzle
+        {
+        	width:423px;
+        	height:370px;
+        }
+
+        #pic1
+        {
+           opacity:.70;
+        }
+
+        #pic8
+        {
+        	opacity:.70;
+        }
+
+        #pic5
+        {
+        	opacity:.70;
+        }
+
+        #pic6
+        {
+        	opacity:.70;
+        }
+
+        #pic7
+        {
+        	opacity:.40;
+        	position:relative;
+        	left:165px;
+        	top:-350px;
+        }
+        
+	}
+
+	#right
+	{
+		float: right;
+		
+		#p-title
+		{
+			font-weight:normal;
+			font-family:arial;
+			font-size:23px;
+			color: #9d9d9d;
+			//padding-left: 30px;
+		}
+
+		#registration-form
+		{
+			height:244px;
+            width:438px;
+			background: url(WelcomePage/Student_ID_Card32.png) no-repeat;
+			//margin-left: 49px;
+
+            #entry-box
+            {
+               padding-top:60px;
+               padding-left:84px;
+
+               .text-box2
+               {
+                  width: 132px;
+                  height:14px;
+                  border:1px solid #b3b3b3;
+                  padding:4px 8px;
+                  margin-bottom:0px;
+               }
+
+
+               #gender-input
+               {
+                  width:175px;
+                  height:14px;
+                  margin-left:15px;
+                  font-size:13px;
+               }
+            }
+         
+			#terms
+			{
+				width: 300px; //330px
+				//float: right;
+				margin-left:164px;
+				font-size:12px;
+				
+				a
+				{
+					font-weight: regular;
+					color: #2eaf37;
+					font-size:12px;
+				}
+			}
+
+			#submit-button
+			{
+				background: url(WelcomePage/SignUpBtnSprite3.png) no-repeat -0px -0px;
+				height:37px;
+				width:119px;
+				float: right;
+				//padding-left:0px;
+				//padding-right:14px;
+				margin-right:8px;
+
+			}
+
+			#submit-button:hover
+			{
+				background-position: -119px -0px;
+				height:37px;
+				width:119px;
+				float: right;
+				//padding-left:0px;
+				//padding-right:14px;
+				margin-right:8px;
+			}
+
+			#submit-button:active
+			{
+				background-position: -238px -0px;
+				height:37px;
+				width:119px;
+				float: right;
+				//padding-left:0px;
+				//padding-right:14px;
+				margin-right:8px;
+			}
+
+		}		
+	}
+}
+
+
+#footer
+{
+	$footerSize: 37px;
+
+	height: $footerSize;	//49
+	margin:-$footerSize auto 0; /* negative margin-top equals height of #foot */
+	background: url(WelcomePage/Footer_BG_Slice2.png) repeat-x;
+
+   	#footer-content
+   	{
+   		font-size: 11px;
+   		padding-top: 12px;
+
+   		#left
+	   	{
+	   		color: #8e8d8d;
+	   		float: left;
+	   	}
+
+	   	#right
+	   	{
+	   		float: right;
+	   	}
+   	}
+}
+
+#check-box
+{
+	padding-left:2px;
+	font-size:12px;
+}
+
+#pl
+{
+	font-size:12px;
+	padding-left:3px;
+}
+
+#log-in
+{
+	padding-top:1px;
+}
+
+.text-box1
+{
+	width: 174px;
+	//background: url('WelcomePage/TextBoxSprite.png') no-repeat -0px -0px;
+	color : #747862;
+	height:22px;
+	border:1px solid #b3b3b3;
+	padding-top:0px;
+	padding-right:8px;
+	padding-left:8px;
+	padding-bottom:0px;
+	margin:0px;
+}
+
+
+#text-box3
+{
+	width: 50px;
+	height:14px;
+	border:1px solid #b3b3b3;
+	padding:4px 8px;
+	margin-bottom:0px;
+}

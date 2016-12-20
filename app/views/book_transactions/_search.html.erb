@@ -1,0 +1,24 @@
+<% unless @books_to_buy.empty? %>
+  <table class="table1">
+    <tr>
+      <th>Cover</th>
+      <th>Title</th>
+      <th>Author</th>
+      <th>ISBN 10/13</th>
+      <th>Publisher</th>
+    </tr>
+
+  <% @books_to_buy.each_with_index do |sell_book_item, index| %>
+    <tr <%= index % 2 == 0 ? "class = r0" : "class = r1" %>>
+      <td id ="bk-cover-cell"><%= link_to (image_tag(Book.cover(sell_book_item.book.isbn13), :alt => "#{sell_book_item.book.isbn13} Cover", :class => "bk-cover")), new_book_transaction_path({:buy_book => sell_book_item.book.isbn13})%></td>
+      <td class="truncate"><%= link_to sell_book_item.book.title, new_book_transaction_path({:buy_book => sell_book_item.book.isbn13})%></td>
+      <td ><%= sell_book_item.book.author %></td>
+      <td id="isbn-cell"><%= sell_book_item.book.isbn10 %> <br/> <%= sell_book_item.book.isbn13%></td>
+      <td id="publisher-cell"><%= sell_book_item.book.publisher %></td>
+    </tr>
+  <% end %>
+  </table>
+
+  <br />
+  <%= paginate @books_to_buy %>
+<% end %>

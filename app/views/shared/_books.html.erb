@@ -1,0 +1,18 @@
+<script type="text/javascript" >
+var books = <%= books.to_json.html_safe %>;
+</script>
+<div id="noresults"> <p id="nr">No Results</p> </div>
+<% if books %>
+	<% books.each do |book| %>
+		<div class="book-container">
+		  <div class="book">
+		  	<% if path == "sell" %>
+		  		<div><%= link_to(image_tag(Book.cover(book.isbn13), alt: "#{book.isbn13} Cover", :class => "book-cover"), new_sell_book_item_path({:book => book})) %></div>
+		  	<% else %>
+		  		<div><%= link_to(image_tag(Book.cover(book.isbn13), alt: "#{book.isbn13} Cover", :class => "book-cover"), new_book_transaction_path({:buy_book => book.isbn13})) %></div>
+		  	<% end %>
+		  </div>
+		</div>
+	<% end %>
+<% end %>
+

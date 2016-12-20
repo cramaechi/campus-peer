@@ -1,0 +1,121 @@
+#condition-container
+{
+	background :url(SellBookItems/DD13.png) no-repeat 90px -1px;
+	height:19px;
+	padding-top:2px;
+    width:205px;
+}
+
+#condition-text
+{
+	float:left;
+	padding-left:15px;
+	color:#5a5a5a;
+	font-size:16px;
+}
+
+#condition-selection
+{
+	margin-top:10px;
+}
+
+#drop-down
+{
+	/* IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    /* IE 5-7 */
+    filter: alpha(opacity=0);
+    /* Netscape */
+    -moz-opacity: 0;
+    /* Safari 1.x */
+    -khtml-opacity: 0;
+    /* Good browsers */
+    opacity: 0;
+
+    width:70px;
+    bottom:11px;
+    right:40px;
+    position:relative;
+    z-index:999;
+}
+
+.indent
+{
+	color:#5a5a5a;
+	padding-left:7px;
+	font-size:16px;
+}
+
+#condition-field
+{
+	background-color:#efefef;
+	box-shadow: 1px 1px 1px #999999	 inset;
+    -moz-box-shadow: 1px 1px 1px #999999 inset;
+	-webkit-box-shadow: 1px 3px 3px  #8f8f8f inset;
+	border-color:#cccccc;
+	margin-left:7px;
+	color:#101010;
+	font-size:13px;
+	font-family:arial;
+}
+
+#price-field
+{
+	background-color:#efefef;
+	box-shadow: 1px 1px 2px #888888 inset;
+    //-moz-box-shadow: 2px 2px 3px #cccccc inset;
+	//-webkit-box-shadow: 0px 3px 3px #cccccc inset;
+	border: 1px solid #bbbbbb;
+	width:60px;
+	height:16px;
+	color:#101010;
+	font-size:13px;
+	font-family:arial;
+
+}
+
+.field
+{
+	margin-left:9px;
+}
+
+.actions
+{
+	height:28px;
+	width:113px;
+	margin-left:16px;
+	margin-bottom:5px;
+}
+
+.sbb
+{
+	background: url(SellbookItems/SellBookBtnSprite7.png) no-repeat -0px -0px;
+	height:28px;
+	width:113px;
+}
+
+.sbb:hover
+{
+	background-position: -114px -0px;
+	height:28px;
+	width:113px;
+}
+
+.sbb:active
+{
+	background-position: -228px -0px;
+	height:28px;
+	width:113px;
+}
+
+#condition-type
+{
+   padding-top:0px;
+   padding-left:11px;
+   font-size:13px
+}
+
+#dd3
+{
+	margin-right:0px;
+}

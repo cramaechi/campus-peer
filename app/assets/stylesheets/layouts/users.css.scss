@@ -1,0 +1,126 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$WrapperWidth: 1000px;
+$FooterHeight: 49px;
+
+* 
+{
+	margin: 0;
+	padding: 0;
+}
+
+html, body 
+{
+	height: 100%; 
+	background-color: #fcfcfc;
+	font-family: "Arial";
+	color: #5d5d5d;
+
+	a{color: #5d5d5d}
+	a:link {text-decoration: none}
+	a:active {text-decoration: none}
+	a:hover {text-decoration: underline;}
+	a:visited{text-decoration: none;}
+}
+
+#container 
+{
+	min-height: 100%;
+	margin: 0 auto;
+	//border-left: 20px;
+}
+
+#container:before 
+{ /* Opera and IE8 "redraw" bug fix */
+	content:"";
+	float:left;
+	height:100%;
+	margin-top:-999em;
+}
+
+* html #container 
+{ /* IE6 workaround */
+	height:100%; 
+}
+
+.wrapper
+{
+	margin: 0px auto;
+	height:100%;
+	width: $WrapperWidth;
+}
+
+#header
+{
+  	background: url(../WelcomePage/Header_BG_Slice.png) repeat-x;
+  	height:78px;
+
+	#logo-text
+	{
+	   padding: 24px 0px 0px 10px;
+	   float: left;
+	}
+}
+
+#content
+{
+	padding: 50px 0px 0px 0px;
+	padding-bottom: 49px;	// Size of footer
+}
+
+#error-messages
+{
+	color: #ba6262;
+	background-color: #fff1f1;
+	border: dashed 1px;
+	padding: 10px 20px 10px 20px;
+}
+
+.text-box 
+{
+	width: 215px;
+	color : #747862;
+	height:20px;
+	border:1px solid #d4d4d4;
+	padding:4px 8px;
+	margin-bottom:0px;
+}
+
+#user-links
+{
+	font-size: 12px;
+	font-weight: normal;
+	padding-top: 7px;
+	padding-left: 171px;
+
+	b{font-size:18px;}
+}
+
+#footer 
+{
+	
+	$footerSize: 37px;
+
+	height: $footerSize;	//49
+	margin:-$footerSize auto 0; /* negative margin-top equals height of #foot */
+	background: url(../WelcomePage/Footer_BG_Slice2.png) repeat-x;
+
+   	#footer-content
+   	{
+   		font-size: 11px;
+   		padding-top: 12px;
+
+   		#left
+	   	{
+	   		color: #8e8d8d;
+	   		float: left;
+	   	}
+
+	   	#right
+	   	{
+	   		float: right;
+	   	}
+   	}
+}

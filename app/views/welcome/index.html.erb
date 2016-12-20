@@ -1,0 +1,161 @@
+<% content_for :head do %>
+  <title>CampusPeer | Welcome</title>
+  <%= stylesheet_link_tag    "welcome", :media => "all" %>  
+  <%= stylesheet_link_tag    "jQueryThemes/ui-lightness/jquery-ui-1.8.21.custom", :media => "all" %>
+  <%= stylesheet_link_tag    "placeholder", :media => "all" %>
+  <%= javascript_include_tag "welcome" %>  
+<% end %>
+
+
+<div id="container">
+  <div id="header">
+    <div class="wrapper">
+      <div id="logo-text">
+        <img src="/assets/WelcomePage/logo4.png">
+        <img src="/assets/WelcomePage/CampusPeerText5.png">
+      </div>
+      <div id="signin">
+
+        <%= form_for("user", :url => user_session_path, :html => {:novalidate => 'novalidate'}) do |f| %>
+          <table cellspacing="2">
+            <tr>
+              <td>
+                <label class="input">
+                  <span>Email</span>
+                  <%= f.email_field :email, :class => "text-box1 autofocus" %>
+                </label>
+              </td>
+              <td>
+                <label class="input">
+                  <span>Password</span>
+                  <%= f.password_field :password, :class => "text-box1" %>
+                </label>
+              </td>
+              <td id ="log-in"><%= f.submit "", :type => :image, :src => "/assets/WelcomePage/loginBtn42.png" %></td>
+            </tr>
+            <tr>
+              <td>
+                <% if devise_mapping.rememberable? %>
+                  <div id="check-box"><%= f.check_box :remember_me %> <%= f.label :remember_me, "Don't Forget Me" %></div>
+                <% end -%>
+              </td>
+              <td id="pl">
+                <%- if devise_mapping.recoverable? && controller_name != 'passwords' %>
+                  <%= link_to "Password Lookup?", new_password_path(resource_name) %><br />
+                <% end -%>
+              </td>
+            </tr>
+          </table>
+        <% end %>
+
+      </div>
+    </div>  
+  </div>
+
+  <div id="content">
+    <div class="wrapper">
+      <div id="left">
+        <!--  <img id="target" src="/assets/WelcomePage/slides.png"> -->
+        <div id="message">Use CampusPeer to collaborate with students on your campus that provide the support you need to succeed in class.</div>
+        <img src="/assets/WelcomePage/puzzle.png" id="puzzle">
+      </div>
+
+      <div id="right">
+        <div id="p-title">
+         Join Today!
+        </div>
+
+        <br />
+
+        <div id="registration-form">
+          <%= form_for("user", :url => user_registration_path,  :html => {:novalidate => 'novalidate'}) do |f| %>
+            <div id="entry-box">
+            <table cellspacing="15">
+              <tr>
+                <td>  
+                  <label class="input">
+                    <span>First Name</span>
+                    <%= f.text_field :firstname, :class => "text-box2"  %>
+                  </label>
+                </td>
+                <td>
+                  <label class="input">
+                    <span>Last Name</span>
+                    <%= f.text_field :lastname, :class => "text-box2"  %>
+                  </label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label class="input">
+                    <span>Email</span>
+                    <%= f.email_field :email, :class => "text-box2"  %>
+                  </label>
+                </td>
+                <td>
+                  <label class="input">
+                    <span>Re-enter Email</span>
+                    <%= f.email_field :email_confirmation, :class => "text-box2"  %>
+                  </label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label class="input">
+                    <span>Password</span>
+                    <%= f.password_field :password, :class => "text-box2"  %>
+                  </label>
+                </td>
+                <td>
+                  <label class="input">
+                    <span>Campus</span>
+                    <%= f.text_field :campus_name, :class => "text-box2", :id => "campus_textfield"  %>
+                  </label>
+                </td>
+              </tr>
+            </table>
+              
+            <div id="gender-input">
+              Gender: &nbsp 
+              <input type ="radio" name ="sex" value ="male" id="male">  
+              <label for="male">Male</label> &nbsp
+              <input type ="radio" name="sex" value="female" id="female">  
+              <label for="female">Female</label>
+            </div>
+
+            </div>
+
+            <br /><br /><br /><br /><br />
+
+            <div id="terms">By clicking Sign Up, you agree to our 
+              <%= link_to("Terms", welcome_index_path) %> 
+              and 
+              <%= link_to("Privacy Policy.", welcome_index_path) %>
+            </div>
+            <div id="submit-button"><%= f.submit "", :type => :image, :src => "/assets/WelcomePage/SignUpBtnTransparentBG.png" %></div>
+
+        <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div id="footer">
+  <div id="footer-content">
+    <div class="wrapper">
+      <div id="left">
+        CampusPeer © 2012
+      </div>
+
+      <div id="right">
+        Help · About · Policy · Jobs · Advertising · Contact · Mobile · FAQs
+      </div>    
+    </div>
+  </div>  
+</div>
+
+
+
+

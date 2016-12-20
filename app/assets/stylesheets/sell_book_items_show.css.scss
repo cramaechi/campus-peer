@@ -1,0 +1,45 @@
+@font-face
+{
+	font-family: d;
+	src: local('lemonsqueezy'), url('fonts/lemonsqueezy.ttf');
+}
+
+#transaction-right
+{
+	margin-left:200px;
+
+	#image
+	{
+		height:120px;
+		width:75px;
+		background: url(SellbookItems/Arrow.png) no-repeat;
+		float:left;
+	}
+
+	#bonus
+	{
+		font-family:d;
+		font-size:18px;
+		color:#666666;
+		width:250px;
+		float:right;
+		margin-right:80px;
+	}
+}
+
+#transaction-left
+{
+	float:left;
+	margin-left:12px;
+	margin-top:10px;
+}
+
+#text-field
+{
+	margin-top:10px;
+	height:26px;
+	width:400px;
+	margin-left:1px;
+	font-size:13px;
+	border:1px solid #bababa;
+}

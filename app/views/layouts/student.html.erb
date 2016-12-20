@@ -1,0 +1,106 @@
+  <!DOCTYPE html>
+<html>
+<head> 
+  <%= stylesheet_link_tag "layouts/student", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= javascript_include_tag "layouts/student" %>
+
+  <%= yield :head %>
+
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<div id="container">
+  <div id="header">
+    <div class="wrapper">
+      <div id="logo-text">
+        <%=link_to image_tag("/assets/StudentLayout/CampusPeerLogo20.png"), homepage_index_path%>
+        <%= link_to image_tag("/assets/StudentLayout/CampusPeerText4.png"), homepage_index_path%>
+      </div>
+      
+ 
+
+      <div id="top-links">
+        <ul id="header-links">
+          <li id ="campus-icon"><%= link_to image_tag("/assets/StudentLayout/CampusIcon28.png"), homepage_index_path %></li>
+          <li id="mail-icon"><%= link_to image_tag("/assets/StudentLayout/MailIcon13.png"), sell_book_items_path %></li>
+          <li id="profile-icon"><%= link_to image_tag("/assets/StudentLayout/ProfileIcon23.png"), sell_book_items_path %></li>
+          <li id="accountsettings-icon"><%=link_to image_tag("/assets/StudentLayout/AccountSettingsIcon6.png"), sell_book_items_path %></li>
+          <li id="logout-icon"><%= link_to image_tag("/assets/StudentLayout/LogoutIcon9.png"), signout_path %></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="content">    
+    <div class="wrapper">
+      <div id="content-left">
+        <ul id="nav-bar">
+          <li class="navitem" id="first-navitem">
+            <div id="book-icon">
+              <%= image_tag("/assets/StudentLayout/BooksIcon8.png") %>
+            </div>
+            <div class="nav-label">
+              <h5>Books</h5>
+            </div>
+            <ul class="subnav">
+              <li class="subnav-item"><%= link_to("Buy", book_transactions_path) %></li>
+              <li><%= link_to("Sell", sell_book_items_path) %></li>
+            </ul>
+          </li>
+          <li class="navitem">
+            <div id="studygroup-icon">
+              <%= image_tag("/assets/StudentLayout/StudyGroupsIcon15.png") %>
+            </div>
+            <div class="nav-label">
+              <h5>Study Groups</h5>
+            </div>
+            <ul class="subnav">
+              <li class="subnav-item"><%= link_to("Create", sell_book_items_path) %></li>
+              <li><%= link_to("Join", sell_book_items_path) %></li>
+            </ul>
+          </li>
+          <li class="navitem">
+            <div id="tutor-icon">
+              <%= image_tag("/assets/StudentLayout/TutorsIcon2.png") %>
+            </div>
+            <div class="nav-label">
+              <h5>Tutors</h5>
+            </div>
+            <ul class="subnav">
+              <li class="subnav-item"><%= link_to("Find", sell_book_items_path) %></li>
+              <li><%= link_to("Tutor", sell_book_items_path) %></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      
+      <div id="content-right">
+
+      <%= yield %>
+
+      </div>
+
+    </div>  
+  </div>
+
+</div>
+
+<div id="footer">
+  <div id="footer-content">
+    <div class="wrapper">
+      <div id="left">
+        CampusPeer © 2012
+      </div>
+
+      <div id="right">
+        Help · About · Policy · Jobs · Advertising · Contact · Mobile · FAQs
+      </div>    
+    </div>
+  </div>  
+</div>
+
+
+</body>
+</html>

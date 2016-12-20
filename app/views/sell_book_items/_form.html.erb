@@ -1,0 +1,122 @@
+<%= form_for(@sell_book_item) do |f| %>
+  <% if @sell_book_item.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@sell_book_item.errors.count, "error") %> prohibited this sell_book_item from being saved:</h2>
+
+      <ul>
+      <% @sell_book_item.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div id="bk-div">
+    <div id="border">
+      <div id="box-title">Book Summary</div>
+    </div>
+
+    <div id="bk-cover-div">
+      <%= image_tag(Book.cover(@book_to_be_sold.isbn13), :alt => "#{@book_to_be_sold.isbn13} Cover", :id => "bk-cover") %>
+    </div>
+    
+    <div id="bk-info-div" class = "y">
+      <table cellspacing="9" class = "tble">
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">TITLE:</span></td>
+          <td class="truncate" class="bk-value-width"><%= @book_to_be_sold.title %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width" ><span class="bk-heading">AUTHORS:</span></td>
+          <td class="truncate" class="bk-value-width"><%= @book_to_be_sold.author %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">ISBN 10:</span></td>
+          <td class="bk-value-width"><%= @book_to_be_sold.isbn10 %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">ISBN 13:</span></td>
+          <td class="bk-value-width"><%= @book_to_be_sold.isbn13 %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">PUBLISHER:</span></td>
+          <td class="bk-value-width"><%= @book_to_be_sold.publisher %></td>
+        </tr>
+
+        <% if @book_to_be_sold.pricenew %>
+          <tr>
+            <td class="bk-heading-width"><span class="bk-heading">Suggested New Price:</span></td>
+            <td class="bk-value-width"><%= number_to_currency(@book_to_be_sold.pricenew) %></td>
+          </tr>
+        <% end %>
+
+        <% if @book_to_be_sold.priceused %>
+          <tr>
+            <td class="bk-heading-width"><span class="bk-heading">Suggested Used Price:</span></td>
+            <td class="bk-value-width"><%= number_to_currency(@book_to_be_sold.priceused) %></td>
+          </tr>
+        <% end %>
+
+      </table>
+    </div>
+  </div>
+
+  <br />
+
+<%
+=begin %>
+  <div class="field">
+    <%= f.label :user_id %><br />
+    <%= f.number_field :user_id %>
+  </div>
+  <div class="field">
+    <%= f.label :isbn13 %><br />
+    <%= f.text_field :isbn13 %>
+  </div>
+<%
+=end %>
+
+  <div class="field">
+    <%= f.hidden_field :user_id %>
+  </div>
+  <div class="field">
+    <%= f.hidden_field :book_id %>
+  </div>
+  <div class="field">
+    <%= f.hidden_field :campus_id %>
+  </div>
+
+  <div id = "condition-container">
+    <div id="condition-text">
+      <%= f.label :condition, "Condition: "%>
+      <span id="condition-type"> Used </span>
+    </div>
+    
+     <div id="condition-selection"> 
+      
+     <%= f.select :condition, SellBookItem::CONDITION_TYPE , {}, :id => "drop-down" %>
+     </div>
+  </div><br />
+
+  <div class="field">
+    <%= f.label :price, "Price: ", :class => "indent" %>
+    <%= f.text_field :price, :id => "price-field" %>
+  </div> <br /> 
+  <div class="field">
+    <%= f.label :condition_description, "Condition Description: ", :class => "indent" %><br />
+    <%= f.text_area :condition_description, :id => "condition-field", :rows => 13, :cols => 50 %>
+  </div><br />
+
+  <% if params[:action] == "new" %>
+    <div class="actions">
+      <%= f.submit  "", :name => nil, :type => :image, :src => "/assets/SellBookItems/TransparentSellBookBtn7.png", :class => "sbb" %>
+    </div>
+  <% end %>
+
+  <% if params[:action] == "edit" %>
+    <div class="actions">
+      <%= f.submit "Update Book" %>
+    </div>
+  <% end %>
+    
+<% end %>

@@ -1,0 +1,92 @@
+#searchform
+{
+	//background :url(Shared/SearchBoxBG14.png) no-repeat;
+	width: 577px;
+	height: 51px;
+	margin-left:34px;
+	float:left;
+
+
+	#searchbox
+	{
+	    border: 1px solid #cccccc;
+		width: 358px;
+		height:25px;
+		padding: 5px 32px 0px 36px;
+		margin:9px 0px 0px 12px;
+		font-size: 19px;
+		font-family:arial;
+		background: url(Shared/SearchLogo4.png) no-repeat #ffffff 1% 40%;
+		color: #454545;
+		float:left;
+		box-shadow: 1px 2px 2px #dddddd inset;
+		-moz-box-shadow: 1px 4px 7px #bbbbbb inset;
+		-webkit-box-shadow: 1px 2px 2px #dddddd inset;
+	}
+
+	#search-btn
+	{
+		background: url(BookTransactions/SearchBtnSprite8.png) no-repeat -0px -0px;
+		margin-top:7px;
+        margin-right:20px;
+		height:35px;
+		width:117px;
+		float:right;
+	}
+
+	#search-btn:hover
+	{
+		background-position: -117px -0px;
+	}
+
+	#search-btn:active
+	{
+		background-position: -234px -0px;
+	}
+}
+
+#searchform2
+{
+	width: 599px;
+	height: 59px;
+	margin-left:17px;
+	float:left;
+
+	#searchbox2
+	{
+	    border:1px solid #bbbbbb;
+		width: 358px;
+		height:22px;
+		padding: 5px 32px 0px 36px;
+		margin-bottom:0px;
+		//margin-right:15px;
+		font-size: 19px;
+		font-family:arial;
+		float: left;
+		margin-top:6px;
+		color: #454545;
+		background: url(Shared/SearchLogo2.png) no-repeat #ffffff 1% 64%;
+	}
+
+	#search-btn2
+	{
+		background: url(Shared/MoreResultsSearchBtnSprite.png) no-repeat -0px -0px;
+		margin-top:4px;
+		height:33px;
+		width:117px;
+		margin-right:44px;
+		margin-top:5px;
+		float: right;
+	}
+
+	#search-btn2:hover
+	{
+		background-position: -117px -0px;
+	}
+
+	#search-btn2:active
+	{
+		background-position: -234px -0px;
+	}
+
+}

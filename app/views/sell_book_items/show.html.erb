@@ -1,0 +1,74 @@
+<% content_for :head do %>
+  <title>CampusPeer | Sell Books</title>
+  <%= stylesheet_link_tag "sell_book_items_show", :media => "all" %>
+  <%= stylesheet_link_tag "book", :media => "all" %>
+
+<% end %>
+
+<div id="bk-div">
+  <div id="border">
+      <div id="box-title">Receipt</div>
+    </div>
+
+    <div id="bk-cover-div">
+      <%= image_tag(Book.cover(@book_to_be_sold.isbn13), :alt => "#{@book_to_be_sold.isbn13} Cover", :id => "bk-cover") %>
+    </div>
+
+    <div id="bk-info-div">
+      <table cellspacing="9" class="tble">
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">TITLE:</span></td>
+          <td class="truncate"><%= @book_to_be_sold.title %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">AUTHORS:</span></td>
+          <td class="truncate"><%= @book_to_be_sold.author %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">ISBN 10:</span></td>
+          <td><%= @book_to_be_sold.isbn10 %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">ISBN 13:</span></td>
+          <td><%= @book_to_be_sold.isbn13 %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">PUBLISHER:</span></td>
+          <td><%= @book_to_be_sold.publisher %></td>
+        </tr>
+        <tr><td class="dash"></td><td class = "dash"></td></tr>
+
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">Price:</span></td>
+          <td><%= number_to_currency(@sell_book_item.price) %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">Condition:</span></td>
+          <td><%= @sell_book_item.condition %></td>
+        </tr>
+        <tr>
+          <td class="bk-heading-width"><span class="bk-heading">Condition Description:</span></td>
+          <td class="truncate" id="bk-value-width-show"><%= @sell_book_item.condition_description.blank? ? "No Description" : @sell_book_item.condition_description %></td>
+        </tr>
+      </table>
+    </div>
+</div>
+
+<br />
+
+<!-- The autofocus() doesn't seem to be working in FireFox 13.0.1 -->
+
+<div id ="transaction-left">
+  <form>
+  <input style="text" id="text-field" class="autofocus" readonly="readonly" value="http://0.0.0.0:3000/sell_book_items/join_now"/>
+  </form>
+</div>
+
+<div id ="transaction-right">
+  <div id ="image"></div>
+  <div id ="bonus">
+    <span style = "text-decoration:underline;">Bonus</span><br/><br/>Copy and paste this link on any social network site to increase the number of prospective buyers on your campus!
+  </div>
+  
+</div>
+
