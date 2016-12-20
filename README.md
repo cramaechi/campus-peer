@@ -1,6 +1,6 @@
 # CampusPeer
 An online social networking application that allows college students to buy and sell used books. <br><br>
-<img src="https://github.com/cramaechi/campus-peer/blob/master/img/welcome_page.png" width="650" height="407">
+<img src="https://github.com/cramaechi/campus-peer.com/blob/master/img/welcome_page.png" width="650" height="407">
 
 ## What state is the project in right now?
 The project is currently in the *early stages* of development, with some functionality already implemented for buying and selling books.
@@ -43,19 +43,19 @@ The project is currently in the *early stages* of development, with some functio
   Password: **test**
   
 * From the homepage, click on the "Buy" link on the top-left to buy a book:<br><br>
-<img src="https://github.com/cramaechi/campus-peer/blob/master/img/home_page.png" width="650" height="407">
+<img src="https://github.com/cramaechi/campus-peer.com/blob/master/img/home_page.png" width="650" height="407">
 <br><br>
 
 * Select any of the books in the rectangular box or search for a book by ISBN or name:<br><br>
-<img src="https://github.com/cramaechi/campus-peer/blob/master/img/book_transactions_page.png" width="650" height="407">
+<img src="https://github.com/cramaechi/campus-peer.com/blob/master/img/book_transactions_page.png" width="650" height="407">
 <br><br>
 
 * Buy any of the books listed in the table:<br><br>
-<img src="https://github.com/cramaechi/campus-peer/blob/master/img/book_summary_page.png" width="650" height="407">
+<img src="https://github.com/cramaechi/campus-peer.com/blob/master/img/book_summary_page.png" width="650" height="407">
 <br><br>
 
 * Your **receipt** is shown for the purchase just made:<br><br>
-<img src="https://github.com/cramaechi/campus-peer/blob/master/img/receipt_page.png" width="650" height="407">
+<img src="https://github.com/cramaechi/campus-peer.com/blob/master/img/receipt_page.png" width="650" height="407">
 <br><br>
 
 * You can logout at anytime by clicking the **key icon** at the top-right of the page (shown in above image).
