@@ -6,8 +6,8 @@ An online social networking application that helps college students buy and sell
 The project is currently in the *early stages* of development, with some functionality already implemented for buying and selling books.
 
 ## Requirements
-  * **[Ruby v. 2.3.0] (https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released/)**
-  * **[Ruby on Rails v. 5.0.0.1] (https://rubygems.org/gems/rails/versions/5.0.0.1)**
+  * **[Ruby v. 2.3.0](https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released/)**
+  * **[Ruby on Rails v. 5.0.0.1](https://rubygems.org/gems/rails/versions/5.0.0.1)**
   * **SQLite 3**
   
 ## Instructions
@@ -17,7 +17,7 @@ The project is currently in the *early stages* of development, with some functio
    ```
    $ git clone https://github.com/cramaechi/campus-peer.git
    ```
-   or [download as ZIP] (https://github.com/cramaechi/campus-peer/archive/master.zip).
+   or [download as ZIP](https://github.com/cramaechi/campus-peer/archive/master.zip).
   
 2. Navigate to the project's directory:
    ```
